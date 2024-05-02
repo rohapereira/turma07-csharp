@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\17FaixaDeValor\bin\Debug\17FaixaDeValor.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\17FaixaDeValor\bin\Debug\17FaixaDeValor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\17FaixaDeValor\bin\Debug\17FaixaDeValor.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\17FaixaDeValor\obj\Debug\17FaixaDeValor.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\17FaixaDeValor\obj\Debug\17FaixaDeValor.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\17FaixaDeValor\obj\Debug\17FaixaDeValor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\17FaixaDeValor\obj\Debug\17FaixaDeValor.pdb

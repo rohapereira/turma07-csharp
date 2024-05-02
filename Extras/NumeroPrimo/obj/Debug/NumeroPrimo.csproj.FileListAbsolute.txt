@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\NumeroPrimo\bin\Debug\NumeroPrimo.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\NumeroPrimo\bin\Debug\NumeroPrimo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\NumeroPrimo\bin\Debug\NumeroPrimo.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\NumeroPrimo\obj\Debug\NumeroPrimo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\NumeroPrimo\obj\Debug\NumeroPrimo.pdb

@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Pilha\bin\Debug\Pilha.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Pilha\bin\Debug\Pilha.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Pilha\bin\Debug\Pilha.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Pilha\obj\Debug\Pilha.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Pilha\obj\Debug\Pilha.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Pilha\obj\Debug\Pilha.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Pilha\obj\Debug\Pilha.pdb

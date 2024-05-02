@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\CompararStrings\bin\Debug\CompararStrings.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\CompararStrings\bin\Debug\CompararStrings.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\CompararStrings\bin\Debug\CompararStrings.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\CompararStrings\obj\Debug\CompararStrings.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\CompararStrings\obj\Debug\CompararStrings.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\CompararStrings\obj\Debug\CompararStrings.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\CompararStrings\obj\Debug\CompararStrings.pdb

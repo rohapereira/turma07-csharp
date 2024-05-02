@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\32SomaDosQuadrados\bin\Debug\32SomaDosQuadrados.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\32SomaDosQuadrados\bin\Debug\32SomaDosQuadrados.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\32SomaDosQuadrados\bin\Debug\32SomaDosQuadrados.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\32SomaDosQuadrados\obj\Debug\32SomaDosQuadrados.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\32SomaDosQuadrados\obj\Debug\32SomaDosQuadrados.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\32SomaDosQuadrados\obj\Debug\32SomaDosQuadrados.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\32SomaDosQuadrados\obj\Debug\32SomaDosQuadrados.pdb

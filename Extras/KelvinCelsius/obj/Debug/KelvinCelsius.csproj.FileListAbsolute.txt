@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\KelvinCelsius\obj\Debug\KelvinCelsius.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\KelvinCelsius\obj\Debug\KelvinCelsius.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\KelvinCelsius\bin\Debug\KelvinCelsius.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\KelvinCelsius\bin\Debug\KelvinCelsius.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\KelvinCelsius\bin\Debug\KelvinCelsius.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\KelvinCelsius\obj\Debug\KelvinCelsius.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\KelvinCelsius\obj\Debug\KelvinCelsius.pdb

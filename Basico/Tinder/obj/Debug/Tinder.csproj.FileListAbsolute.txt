@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tinder\obj\Debug\Tinder.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tinder\obj\Debug\Tinder.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tinder\bin\Debug\Tinder.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tinder\bin\Debug\Tinder.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tinder\bin\Debug\Tinder.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tinder\obj\Debug\Tinder.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tinder\obj\Debug\Tinder.pdb

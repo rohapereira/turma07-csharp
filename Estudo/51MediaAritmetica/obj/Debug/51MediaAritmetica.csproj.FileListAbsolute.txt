@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\51MediaAritmetica\bin\Debug\51MediaAritmetica.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\51MediaAritmetica\bin\Debug\51MediaAritmetica.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\51MediaAritmetica\bin\Debug\51MediaAritmetica.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\51MediaAritmetica\obj\Debug\51MediaAritmetica.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\51MediaAritmetica\obj\Debug\51MediaAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\51MediaAritmetica\obj\Debug\51MediaAritmetica.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\51MediaAritmetica\obj\Debug\51MediaAritmetica.pdb

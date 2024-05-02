@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Prova1\ParOuImpar\bin\Debug\ParOuImpar.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Prova1\ParOuImpar\bin\Debug\ParOuImpar.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Prova1\ParOuImpar\bin\Debug\ParOuImpar.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Prova1\ParOuImpar\obj\Debug\ParOuImpar.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Prova1\ParOuImpar\obj\Debug\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Prova1\ParOuImpar\obj\Debug\ParOuImpar.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Prova1\ParOuImpar\obj\Debug\ParOuImpar.pdb

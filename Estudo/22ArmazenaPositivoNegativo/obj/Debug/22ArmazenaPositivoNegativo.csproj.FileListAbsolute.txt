@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\22ArmazenaPositivoNegativo\bin\Debug\22ArmazenaPositivoNegativo.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\22ArmazenaPositivoNegativo\bin\Debug\22ArmazenaPositivoNegativo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\22ArmazenaPositivoNegativo\bin\Debug\22ArmazenaPositivoNegativo.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\22ArmazenaPositivoNegativo\obj\Debug\22ArmazenaPositivoNegativo.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\22ArmazenaPositivoNegativo\obj\Debug\22ArmazenaPositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\22ArmazenaPositivoNegativo\obj\Debug\22ArmazenaPositivoNegativo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\22ArmazenaPositivoNegativo\obj\Debug\22ArmazenaPositivoNegativo.pdb

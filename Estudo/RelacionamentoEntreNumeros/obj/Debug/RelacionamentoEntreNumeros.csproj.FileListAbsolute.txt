@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\RelacionamentoEntreNumeros\bin\Debug\RelacionamentoEntreNumeros.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\RelacionamentoEntreNumeros\bin\Debug\RelacionamentoEntreNumeros.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\RelacionamentoEntreNumeros\bin\Debug\RelacionamentoEntreNumeros.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\RelacionamentoEntreNumeros\obj\Debug\RelacionamentoEntreNumeros.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\RelacionamentoEntreNumeros\obj\Debug\RelacionamentoEntreNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\RelacionamentoEntreNumeros\obj\Debug\RelacionamentoEntreNumeros.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\RelacionamentoEntreNumeros\obj\Debug\RelacionamentoEntreNumeros.pdb

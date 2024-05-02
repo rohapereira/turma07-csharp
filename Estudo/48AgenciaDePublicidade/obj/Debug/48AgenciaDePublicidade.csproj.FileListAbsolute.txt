@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\48AgenciaDePublicidade\obj\Debug\48AgenciaDePublicidade.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\48AgenciaDePublicidade\obj\Debug\48AgenciaDePublicidade.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\48AgenciaDePublicidade\bin\Debug\48AgenciaDePublicidade.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\48AgenciaDePublicidade\bin\Debug\48AgenciaDePublicidade.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\48AgenciaDePublicidade\bin\Debug\48AgenciaDePublicidade.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\48AgenciaDePublicidade\obj\Debug\48AgenciaDePublicidade.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\48AgenciaDePublicidade\obj\Debug\48AgenciaDePublicidade.pdb

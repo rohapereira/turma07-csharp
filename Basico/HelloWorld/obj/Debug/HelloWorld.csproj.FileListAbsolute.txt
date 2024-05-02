@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\HelloWorld\obj\Debug\HelloWorld.pdb

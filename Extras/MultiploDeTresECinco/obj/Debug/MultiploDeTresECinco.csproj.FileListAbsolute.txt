@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\MultiploDeTresECinco\bin\Debug\MultiploDeTresECinco.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\MultiploDeTresECinco\bin\Debug\MultiploDeTresECinco.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\MultiploDeTresECinco\bin\Debug\MultiploDeTresECinco.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\MultiploDeTresECinco\obj\Debug\MultiploDeTresECinco.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\MultiploDeTresECinco\obj\Debug\MultiploDeTresECinco.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\MultiploDeTresECinco\obj\Debug\MultiploDeTresECinco.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\MultiploDeTresECinco\obj\Debug\MultiploDeTresECinco.pdb

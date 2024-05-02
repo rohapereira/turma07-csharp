@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Inteiros\bin\Debug\Inteiros.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Inteiros\bin\Debug\Inteiros.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Inteiros\bin\Debug\Inteiros.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Inteiros\obj\Debug\Inteiros.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Inteiros\obj\Debug\Inteiros.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Inteiros\obj\Debug\Inteiros.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Inteiros\obj\Debug\Inteiros.pdb

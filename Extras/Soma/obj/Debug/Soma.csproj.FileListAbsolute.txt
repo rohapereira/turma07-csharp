@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Soma\bin\Debug\Soma.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Soma\bin\Debug\Soma.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Soma\bin\Debug\Soma.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Soma\obj\Debug\Soma.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Soma\obj\Debug\Soma.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Soma\obj\Debug\Soma.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Soma\obj\Debug\Soma.pdb

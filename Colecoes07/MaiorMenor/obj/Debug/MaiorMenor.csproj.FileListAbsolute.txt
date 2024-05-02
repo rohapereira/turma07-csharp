@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\MaiorMenor\bin\Debug\MaiorMenor.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\MaiorMenor\bin\Debug\MaiorMenor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\MaiorMenor\bin\Debug\MaiorMenor.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\MaiorMenor\obj\Debug\MaiorMenor.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\MaiorMenor\obj\Debug\MaiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\MaiorMenor\obj\Debug\MaiorMenor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\MaiorMenor\obj\Debug\MaiorMenor.pdb

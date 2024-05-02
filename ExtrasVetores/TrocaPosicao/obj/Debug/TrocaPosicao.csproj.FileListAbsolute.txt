@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\TrocaPosicao\bin\Debug\TrocaPosicao.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\TrocaPosicao\bin\Debug\TrocaPosicao.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\TrocaPosicao\bin\Debug\TrocaPosicao.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\TrocaPosicao\obj\Debug\TrocaPosicao.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\TrocaPosicao\obj\Debug\TrocaPosicao.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\TrocaPosicao\obj\Debug\TrocaPosicao.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\TrocaPosicao\obj\Debug\TrocaPosicao.pdb

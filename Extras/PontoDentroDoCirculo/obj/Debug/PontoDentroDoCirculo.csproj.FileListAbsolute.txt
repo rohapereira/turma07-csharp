@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PontoDentroDoCirculo\bin\Debug\PontoDentroDoCirculo.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PontoDentroDoCirculo\bin\Debug\PontoDentroDoCirculo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PontoDentroDoCirculo\bin\Debug\PontoDentroDoCirculo.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PontoDentroDoCirculo\obj\Debug\PontoDentroDoCirculo.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PontoDentroDoCirculo\obj\Debug\PontoDentroDoCirculo.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PontoDentroDoCirculo\obj\Debug\PontoDentroDoCirculo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PontoDentroDoCirculo\obj\Debug\PontoDentroDoCirculo.pdb

@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\MaiorValor\bin\Debug\MaiorValor.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\MaiorValor\bin\Debug\MaiorValor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\MaiorValor\bin\Debug\MaiorValor.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\MaiorValor\obj\Debug\MaiorValor.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\MaiorValor\obj\Debug\MaiorValor.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\MaiorValor\obj\Debug\MaiorValor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\MaiorValor\obj\Debug\MaiorValor.pdb

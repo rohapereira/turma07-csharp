@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PesoIdeal\bin\Debug\PesoIdeal.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PesoIdeal\bin\Debug\PesoIdeal.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PesoIdeal\obj\Debug\PesoIdeal.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PesoIdeal\obj\Debug\PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PesoIdeal\obj\Debug\PesoIdeal.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PesoIdeal\obj\Debug\PesoIdeal.pdb

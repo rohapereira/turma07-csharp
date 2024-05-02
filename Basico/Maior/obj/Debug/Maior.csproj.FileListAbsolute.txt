@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Maior\bin\Debug\Maior.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Maior\bin\Debug\Maior.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Maior\bin\Debug\Maior.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Maior\obj\Debug\Maior.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Maior\obj\Debug\Maior.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Maior\obj\Debug\Maior.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Maior\obj\Debug\Maior.pdb

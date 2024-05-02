@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\OrdemInversa\bin\Debug\OrdemInversa.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\OrdemInversa\bin\Debug\OrdemInversa.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\OrdemInversa\bin\Debug\OrdemInversa.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\OrdemInversa\obj\Debug\OrdemInversa.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\OrdemInversa\obj\Debug\OrdemInversa.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\OrdemInversa\obj\Debug\OrdemInversa.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\OrdemInversa\obj\Debug\OrdemInversa.pdb

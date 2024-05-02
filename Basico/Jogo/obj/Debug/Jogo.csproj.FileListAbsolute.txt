@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Jogo\bin\Debug\Jogo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Jogo\bin\Debug\Jogo.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Jogo\obj\Debug\Jogo.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Jogo\obj\Debug\Jogo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Jogo\obj\Debug\Jogo.pdb

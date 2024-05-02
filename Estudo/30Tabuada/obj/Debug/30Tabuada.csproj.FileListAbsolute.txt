@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\30Tabuada\bin\Debug\30Tabuada.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\30Tabuada\bin\Debug\30Tabuada.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\30Tabuada\bin\Debug\30Tabuada.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\30Tabuada\obj\Debug\30Tabuada.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\30Tabuada\obj\Debug\30Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\30Tabuada\obj\Debug\30Tabuada.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\30Tabuada\obj\Debug\30Tabuada.pdb

@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Lista\bin\Debug\Lista.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Lista\bin\Debug\Lista.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Lista\bin\Debug\Lista.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Lista\obj\Debug\Lista.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Lista\obj\Debug\Lista.pdb

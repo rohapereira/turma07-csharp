@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Pesca\bin\Debug\Pesca.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Pesca\bin\Debug\Pesca.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Pesca\bin\Debug\Pesca.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Pesca\obj\Debug\Pesca.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Pesca\obj\Debug\Pesca.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Pesca\obj\Debug\Pesca.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Pesca\obj\Debug\Pesca.pdb

@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Posto\bin\Debug\Posto.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Posto\bin\Debug\Posto.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Posto\bin\Debug\Posto.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Posto\obj\Debug\Posto.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Posto\obj\Debug\Posto.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Posto\obj\Debug\Posto.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Posto\obj\Debug\Posto.pdb

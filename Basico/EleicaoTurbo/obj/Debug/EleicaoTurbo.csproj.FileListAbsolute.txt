@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\EleicaoTurbo\bin\Debug\EleicaoTurbo.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\EleicaoTurbo\bin\Debug\EleicaoTurbo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\EleicaoTurbo\bin\Debug\EleicaoTurbo.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\EleicaoTurbo\obj\Debug\EleicaoTurbo.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\EleicaoTurbo\obj\Debug\EleicaoTurbo.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\EleicaoTurbo\obj\Debug\EleicaoTurbo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\EleicaoTurbo\obj\Debug\EleicaoTurbo.pdb

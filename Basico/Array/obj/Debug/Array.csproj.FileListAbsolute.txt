@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Array\bin\Debug\Array.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Array\bin\Debug\Array.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Array\bin\Debug\Array.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Array\obj\Debug\Array.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Array\obj\Debug\Array.pdb

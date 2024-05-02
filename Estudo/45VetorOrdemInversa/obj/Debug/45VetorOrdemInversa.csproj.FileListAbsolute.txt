@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\45VetorOrdemInversa\bin\Debug\45VetorOrdemInversa.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\45VetorOrdemInversa\bin\Debug\45VetorOrdemInversa.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\45VetorOrdemInversa\bin\Debug\45VetorOrdemInversa.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\45VetorOrdemInversa\obj\Debug\45VetorOrdemInversa.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\45VetorOrdemInversa\obj\Debug\45VetorOrdemInversa.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\45VetorOrdemInversa\obj\Debug\45VetorOrdemInversa.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\45VetorOrdemInversa\obj\Debug\45VetorOrdemInversa.pdb

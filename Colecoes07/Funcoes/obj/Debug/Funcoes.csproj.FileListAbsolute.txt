@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\Funcoes\bin\Debug\Funcoes.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\Funcoes\bin\Debug\Funcoes.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\Funcoes\bin\Debug\Funcoes.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\Funcoes\obj\Debug\Funcoes.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\Funcoes\obj\Debug\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\Funcoes\obj\Debug\Funcoes.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Colecoes07\Funcoes\obj\Debug\Funcoes.pdb

@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\28ImparesEntre100e200\bin\Debug\28ImparesEntre100e200.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\28ImparesEntre100e200\bin\Debug\28ImparesEntre100e200.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\28ImparesEntre100e200\bin\Debug\28ImparesEntre100e200.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\28ImparesEntre100e200\obj\Debug\28ImparesEntre100e200.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\28ImparesEntre100e200\obj\Debug\28ImparesEntre100e200.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\28ImparesEntre100e200\obj\Debug\28ImparesEntre100e200.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\28ImparesEntre100e200\obj\Debug\28ImparesEntre100e200.pdb

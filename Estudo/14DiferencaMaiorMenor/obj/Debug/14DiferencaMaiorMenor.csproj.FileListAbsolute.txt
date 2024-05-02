@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\14DiferencaMaiorMenor\bin\Debug\14DiferencaMaiorMenor.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\14DiferencaMaiorMenor\bin\Debug\14DiferencaMaiorMenor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\14DiferencaMaiorMenor\bin\Debug\14DiferencaMaiorMenor.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\14DiferencaMaiorMenor\obj\Debug\14DiferencaMaiorMenor.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\14DiferencaMaiorMenor\obj\Debug\14DiferencaMaiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\14DiferencaMaiorMenor\obj\Debug\14DiferencaMaiorMenor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\14DiferencaMaiorMenor\obj\Debug\14DiferencaMaiorMenor.pdb

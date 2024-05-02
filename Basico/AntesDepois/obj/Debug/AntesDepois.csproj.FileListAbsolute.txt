@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\AntesDepois\bin\Debug\AntesDepois.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\AntesDepois\bin\Debug\AntesDepois.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\AntesDepois\bin\Debug\AntesDepois.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\AntesDepois\obj\Debug\AntesDepois.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\AntesDepois\obj\Debug\AntesDepois.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\AntesDepois\obj\Debug\AntesDepois.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\AntesDepois\obj\Debug\AntesDepois.pdb

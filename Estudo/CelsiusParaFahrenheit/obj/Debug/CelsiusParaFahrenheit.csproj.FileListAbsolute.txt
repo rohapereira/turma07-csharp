@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CelsiusParaFahrenheit\bin\Debug\CelsiusParaFahrenheit.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CelsiusParaFahrenheit\bin\Debug\CelsiusParaFahrenheit.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CelsiusParaFahrenheit\bin\Debug\CelsiusParaFahrenheit.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CelsiusParaFahrenheit\obj\Debug\CelsiusParaFahrenheit.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CelsiusParaFahrenheit\obj\Debug\CelsiusParaFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CelsiusParaFahrenheit\obj\Debug\CelsiusParaFahrenheit.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CelsiusParaFahrenheit\obj\Debug\CelsiusParaFahrenheit.pdb

@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\ComissaoDeVendedores\bin\Debug\ComissaoDeVendedores.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\ComissaoDeVendedores\bin\Debug\ComissaoDeVendedores.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\ComissaoDeVendedores\bin\Debug\ComissaoDeVendedores.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\ComissaoDeVendedores\obj\Debug\ComissaoDeVendedores.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\ComissaoDeVendedores\obj\Debug\ComissaoDeVendedores.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\ComissaoDeVendedores\obj\Debug\ComissaoDeVendedores.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\ComissaoDeVendedores\obj\Debug\ComissaoDeVendedores.pdb

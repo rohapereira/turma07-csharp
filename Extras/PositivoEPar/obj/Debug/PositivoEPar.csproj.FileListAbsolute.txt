@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoEPar\bin\Debug\PositivoEPar.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoEPar\bin\Debug\PositivoEPar.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoEPar\bin\Debug\PositivoEPar.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoEPar\obj\Debug\PositivoEPar.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoEPar\obj\Debug\PositivoEPar.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoEPar\obj\Debug\PositivoEPar.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoEPar\obj\Debug\PositivoEPar.pdb

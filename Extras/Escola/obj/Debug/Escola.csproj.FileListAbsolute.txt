@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Escola\bin\Debug\Escola.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Escola\bin\Debug\Escola.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Escola\bin\Debug\Escola.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Escola\obj\Debug\Escola.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Escola\obj\Debug\Escola.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Escola\obj\Debug\Escola.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Escola\obj\Debug\Escola.pdb

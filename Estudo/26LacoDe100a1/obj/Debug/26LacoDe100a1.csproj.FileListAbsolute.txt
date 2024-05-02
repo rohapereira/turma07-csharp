@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\26LacoDe100a1\bin\Debug\26LacoDe100a1.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\26LacoDe100a1\bin\Debug\26LacoDe100a1.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\26LacoDe100a1\bin\Debug\26LacoDe100a1.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\26LacoDe100a1\obj\Debug\26LacoDe100a1.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\26LacoDe100a1\obj\Debug\26LacoDe100a1.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\26LacoDe100a1\obj\Debug\26LacoDe100a1.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\26LacoDe100a1\obj\Debug\26LacoDe100a1.pdb

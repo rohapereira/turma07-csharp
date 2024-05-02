@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\EstoqueMedio\bin\Debug\EstoqueMedio.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\EstoqueMedio\bin\Debug\EstoqueMedio.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\EstoqueMedio\bin\Debug\EstoqueMedio.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\EstoqueMedio\obj\Debug\EstoqueMedio.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\EstoqueMedio\obj\Debug\EstoqueMedio.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\EstoqueMedio\obj\Debug\EstoqueMedio.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\EstoqueMedio\obj\Debug\EstoqueMedio.pdb

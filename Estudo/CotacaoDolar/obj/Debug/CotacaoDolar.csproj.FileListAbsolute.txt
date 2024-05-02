@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CotacaoDolar\bin\Debug\CotacaoDolar.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CotacaoDolar\bin\Debug\CotacaoDolar.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CotacaoDolar\bin\Debug\CotacaoDolar.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CotacaoDolar\obj\Debug\CotacaoDolar.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\CotacaoDolar\obj\Debug\CotacaoDolar.pdb

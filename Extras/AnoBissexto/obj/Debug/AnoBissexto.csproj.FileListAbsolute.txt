@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoBissexto\bin\Debug\AnoBissexto.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoBissexto\bin\Debug\AnoBissexto.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoBissexto\bin\Debug\AnoBissexto.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoBissexto\obj\Debug\AnoBissexto.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoBissexto\obj\Debug\AnoBissexto.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoBissexto\obj\Debug\AnoBissexto.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoBissexto\obj\Debug\AnoBissexto.pdb

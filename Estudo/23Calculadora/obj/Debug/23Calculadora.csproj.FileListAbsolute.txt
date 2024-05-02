@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\23Calculadora\bin\Debug\23Calculadora.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\23Calculadora\bin\Debug\23Calculadora.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\23Calculadora\bin\Debug\23Calculadora.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\23Calculadora\obj\Debug\23Calculadora.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\23Calculadora\obj\Debug\23Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\23Calculadora\obj\Debug\23Calculadora.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\23Calculadora\obj\Debug\23Calculadora.pdb

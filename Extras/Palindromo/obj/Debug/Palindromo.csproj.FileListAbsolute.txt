@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Palindromo\bin\Debug\Palindromo.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Palindromo\bin\Debug\Palindromo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Palindromo\bin\Debug\Palindromo.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Palindromo\obj\Debug\Palindromo.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Palindromo\obj\Debug\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Palindromo\obj\Debug\Palindromo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Palindromo\obj\Debug\Palindromo.pdb

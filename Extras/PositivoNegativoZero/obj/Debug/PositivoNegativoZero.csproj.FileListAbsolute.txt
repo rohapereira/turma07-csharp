@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoNegativoZero\bin\Debug\PositivoNegativoZero.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoNegativoZero\bin\Debug\PositivoNegativoZero.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoNegativoZero\bin\Debug\PositivoNegativoZero.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoNegativoZero\obj\Debug\PositivoNegativoZero.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoNegativoZero\obj\Debug\PositivoNegativoZero.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoNegativoZero\obj\Debug\PositivoNegativoZero.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\PositivoNegativoZero\obj\Debug\PositivoNegativoZero.pdb

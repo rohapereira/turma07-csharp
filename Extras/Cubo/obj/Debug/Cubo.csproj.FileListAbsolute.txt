@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Cubo\bin\Debug\Cubo.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Cubo\bin\Debug\Cubo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Cubo\bin\Debug\Cubo.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Cubo\obj\Debug\Cubo.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Cubo\obj\Debug\Cubo.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Cubo\obj\Debug\Cubo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Cubo\obj\Debug\Cubo.pdb

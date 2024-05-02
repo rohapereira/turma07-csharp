@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Triangulos\bin\Debug\Triangulos.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Triangulos\bin\Debug\Triangulos.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Triangulos\bin\Debug\Triangulos.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Triangulos\obj\Debug\Triangulos.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Triangulos\obj\Debug\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Triangulos\obj\Debug\Triangulos.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\Triangulos\obj\Debug\Triangulos.pdb

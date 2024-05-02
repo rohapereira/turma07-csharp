@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\IdadeMinimaVotar\bin\Debug\IdadeMinimaVotar.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\IdadeMinimaVotar\bin\Debug\IdadeMinimaVotar.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\IdadeMinimaVotar\bin\Debug\IdadeMinimaVotar.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\IdadeMinimaVotar\obj\Debug\IdadeMinimaVotar.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\IdadeMinimaVotar\obj\Debug\IdadeMinimaVotar.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\IdadeMinimaVotar\obj\Debug\IdadeMinimaVotar.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\IdadeMinimaVotar\obj\Debug\IdadeMinimaVotar.pdb

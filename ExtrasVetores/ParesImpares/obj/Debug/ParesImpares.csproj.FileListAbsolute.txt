@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\ParesImpares\bin\Debug\ParesImpares.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\ParesImpares\bin\Debug\ParesImpares.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\ParesImpares\bin\Debug\ParesImpares.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\ParesImpares\obj\Debug\ParesImpares.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\ParesImpares\obj\Debug\ParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\ParesImpares\obj\Debug\ParesImpares.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\ParesImpares\obj\Debug\ParesImpares.pdb

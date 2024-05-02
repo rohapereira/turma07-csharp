@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\PropriedadeDistributiva\bin\Debug\PropriedadeDistributiva.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\PropriedadeDistributiva\bin\Debug\PropriedadeDistributiva.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\PropriedadeDistributiva\bin\Debug\PropriedadeDistributiva.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\PropriedadeDistributiva\obj\Debug\PropriedadeDistributiva.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\PropriedadeDistributiva\obj\Debug\PropriedadeDistributiva.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\PropriedadeDistributiva\obj\Debug\PropriedadeDistributiva.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\PropriedadeDistributiva\obj\Debug\PropriedadeDistributiva.pdb

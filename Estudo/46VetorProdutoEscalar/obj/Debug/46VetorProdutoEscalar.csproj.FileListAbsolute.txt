@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\46VetorProdutoEscalar\bin\Debug\46VetorProdutoEscalar.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\46VetorProdutoEscalar\bin\Debug\46VetorProdutoEscalar.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\46VetorProdutoEscalar\bin\Debug\46VetorProdutoEscalar.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\46VetorProdutoEscalar\obj\Debug\46VetorProdutoEscalar.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\46VetorProdutoEscalar\obj\Debug\46VetorProdutoEscalar.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\46VetorProdutoEscalar\obj\Debug\46VetorProdutoEscalar.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\46VetorProdutoEscalar\obj\Debug\46VetorProdutoEscalar.pdb

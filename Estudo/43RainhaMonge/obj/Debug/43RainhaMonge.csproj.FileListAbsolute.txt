@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\43RainhaMonge\bin\Debug\43RainhaMonge.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\43RainhaMonge\bin\Debug\43RainhaMonge.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\43RainhaMonge\bin\Debug\43RainhaMonge.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\43RainhaMonge\obj\Debug\43RainhaMonge.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\43RainhaMonge\obj\Debug\43RainhaMonge.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\43RainhaMonge\obj\Debug\43RainhaMonge.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\43RainhaMonge\obj\Debug\43RainhaMonge.pdb

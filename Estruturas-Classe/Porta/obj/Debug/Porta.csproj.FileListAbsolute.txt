@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Porta\bin\Debug\Porta.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Porta\bin\Debug\Porta.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Porta\bin\Debug\Porta.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Porta\obj\Debug\Porta.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Porta\obj\Debug\Porta.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Porta\obj\Debug\Porta.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Porta\obj\Debug\Porta.pdb

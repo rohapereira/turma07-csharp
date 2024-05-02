@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\27Fatorial\bin\Debug\27Fatorial.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\27Fatorial\bin\Debug\27Fatorial.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\27Fatorial\bin\Debug\27Fatorial.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\27Fatorial\obj\Debug\27Fatorial.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\27Fatorial\obj\Debug\27Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\27Fatorial\obj\Debug\27Fatorial.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\27Fatorial\obj\Debug\27Fatorial.pdb

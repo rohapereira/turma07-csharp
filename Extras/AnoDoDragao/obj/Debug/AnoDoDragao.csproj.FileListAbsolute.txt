@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoDoDragao\bin\Debug\AnoDoDragao.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoDoDragao\bin\Debug\AnoDoDragao.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoDoDragao\bin\Debug\AnoDoDragao.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoDoDragao\obj\Debug\AnoDoDragao.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoDoDragao\obj\Debug\AnoDoDragao.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoDoDragao\obj\Debug\AnoDoDragao.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\AnoDoDragao\obj\Debug\AnoDoDragao.pdb

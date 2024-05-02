@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\18Switch\bin\Debug\18Switch.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\18Switch\bin\Debug\18Switch.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\18Switch\bin\Debug\18Switch.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\18Switch\obj\Debug\18Switch.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\18Switch\obj\Debug\18Switch.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\18Switch\obj\Debug\18Switch.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\18Switch\obj\Debug\18Switch.pdb

@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\31ConjutoNumerosPositivos\bin\Debug\31ConjutoNumerosPositivos.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\31ConjutoNumerosPositivos\bin\Debug\31ConjutoNumerosPositivos.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\31ConjutoNumerosPositivos\bin\Debug\31ConjutoNumerosPositivos.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\31ConjutoNumerosPositivos\obj\Debug\31ConjutoNumerosPositivos.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\31ConjutoNumerosPositivos\obj\Debug\31ConjutoNumerosPositivos.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\31ConjutoNumerosPositivos\obj\Debug\31ConjutoNumerosPositivos.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\31ConjutoNumerosPositivos\obj\Debug\31ConjutoNumerosPositivos.pdb

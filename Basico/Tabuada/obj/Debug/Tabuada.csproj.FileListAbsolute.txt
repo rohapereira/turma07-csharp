@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Tabuada\obj\Debug\Tabuada.pdb

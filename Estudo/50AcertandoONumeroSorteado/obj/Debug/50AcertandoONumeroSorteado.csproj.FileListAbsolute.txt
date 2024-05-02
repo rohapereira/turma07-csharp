@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\50AcertandoONumeroSorteado\bin\Debug\50AcertandoONumeroSorteado.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\50AcertandoONumeroSorteado\bin\Debug\50AcertandoONumeroSorteado.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\50AcertandoONumeroSorteado\bin\Debug\50AcertandoONumeroSorteado.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\50AcertandoONumeroSorteado\obj\Debug\50AcertandoONumeroSorteado.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\50AcertandoONumeroSorteado\obj\Debug\50AcertandoONumeroSorteado.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\50AcertandoONumeroSorteado\obj\Debug\50AcertandoONumeroSorteado.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\50AcertandoONumeroSorteado\obj\Debug\50AcertandoONumeroSorteado.pdb

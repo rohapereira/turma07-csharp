@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\41CategoriasNadador\bin\Debug\41CategoriasNadador.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\41CategoriasNadador\bin\Debug\41CategoriasNadador.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\41CategoriasNadador\bin\Debug\41CategoriasNadador.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\41CategoriasNadador\obj\Debug\41CategoriasNadador.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\41CategoriasNadador\obj\Debug\41CategoriasNadador.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\41CategoriasNadador\obj\Debug\41CategoriasNadador.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\41CategoriasNadador\obj\Debug\41CategoriasNadador.pdb

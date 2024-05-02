@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Quilometragem\bin\Debug\Quilometragem.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Quilometragem\bin\Debug\Quilometragem.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Quilometragem\bin\Debug\Quilometragem.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Quilometragem\obj\Debug\Quilometragem.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Quilometragem\obj\Debug\Quilometragem.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Quilometragem\obj\Debug\Quilometragem.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Quilometragem\obj\Debug\Quilometragem.pdb

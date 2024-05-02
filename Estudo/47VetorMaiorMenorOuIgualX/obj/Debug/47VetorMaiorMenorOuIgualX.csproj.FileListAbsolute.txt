@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\47VetorMaiorMenorOuIgualX\bin\Debug\47VetorMaiorMenorOuIgualX.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\47VetorMaiorMenorOuIgualX\bin\Debug\47VetorMaiorMenorOuIgualX.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\47VetorMaiorMenorOuIgualX\bin\Debug\47VetorMaiorMenorOuIgualX.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\47VetorMaiorMenorOuIgualX\obj\Debug\47VetorMaiorMenorOuIgualX.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\47VetorMaiorMenorOuIgualX\obj\Debug\47VetorMaiorMenorOuIgualX.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\47VetorMaiorMenorOuIgualX\obj\Debug\47VetorMaiorMenorOuIgualX.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\47VetorMaiorMenorOuIgualX\obj\Debug\47VetorMaiorMenorOuIgualX.pdb

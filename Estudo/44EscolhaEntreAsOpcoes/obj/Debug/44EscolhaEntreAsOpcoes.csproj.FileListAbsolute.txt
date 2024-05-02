@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\44EscolhaEntreAsOpcoes\bin\Debug\44EscolhaEntreAsOpcoes.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\44EscolhaEntreAsOpcoes\bin\Debug\44EscolhaEntreAsOpcoes.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\44EscolhaEntreAsOpcoes\bin\Debug\44EscolhaEntreAsOpcoes.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\44EscolhaEntreAsOpcoes\obj\Debug\44EscolhaEntreAsOpcoes.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\44EscolhaEntreAsOpcoes\obj\Debug\44EscolhaEntreAsOpcoes.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\44EscolhaEntreAsOpcoes\obj\Debug\44EscolhaEntreAsOpcoes.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\44EscolhaEntreAsOpcoes\obj\Debug\44EscolhaEntreAsOpcoes.pdb

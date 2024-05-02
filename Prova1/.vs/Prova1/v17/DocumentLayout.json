@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Prova1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536BCBD1-6D15-4878-8251-6E34F5ED7E8C}|FilaDeBanco\\FilaDeBanco.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\prova1\\filadebanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{536BCBD1-6D15-4878-8251-6E34F5ED7E8C}|FilaDeBanco\\FilaDeBanco.csproj|solutionrelative:filadebanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486AE52F-2DEC-46BF-9F8C-3576F555CFD0}|ParOuImpar\\ParOuImpar.csproj|C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Prova1\\parouimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486AE52F-2DEC-46BF-9F8C-3576F555CFD0}|ParOuImpar\\ParOuImpar.csproj|solutionrelative:parouimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539042A7-99EA-4A48-B754-DAC36850CFF4}|Projeto\\Projeto.csproj|C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Prova1\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539042A7-99EA-4A48-B754-DAC36850CFF4}|Projeto\\Projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Prova1\\FilaDeBanco\\Program.cs",
+              "RelativeDocumentMoniker": "FilaDeBanco\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Prova1\\FilaDeBanco\\Program.cs",
+              "RelativeToolTip": "FilaDeBanco\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:05:51.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Prova1\\Projeto\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Prova1\\Projeto\\Program.cs",
+              "RelativeToolTip": "Projeto\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:20:17.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Prova1\\ParOuImpar\\Program.cs",
+              "RelativeDocumentMoniker": "ParOuImpar\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Prova1\\ParOuImpar\\Program.cs",
+              "RelativeToolTip": "ParOuImpar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:00:45.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Media\bin\Debug\Media.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Media\bin\Debug\Media.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Media\bin\Debug\Media.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Media\obj\Debug\Media.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Media\obj\Debug\Media.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Media\obj\Debug\Media.pdb

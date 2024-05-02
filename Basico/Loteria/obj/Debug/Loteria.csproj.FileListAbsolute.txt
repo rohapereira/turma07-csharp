@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Loteria\bin\Debug\Loteria.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Loteria\bin\Debug\Loteria.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Loteria\bin\Debug\Loteria.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Loteria\obj\Debug\Loteria.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Loteria\obj\Debug\Loteria.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Loteria\obj\Debug\Loteria.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Loteria\obj\Debug\Loteria.pdb

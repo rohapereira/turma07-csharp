@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\TrocaNumeros\bin\Debug\TrocaNumeros.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\TrocaNumeros\bin\Debug\TrocaNumeros.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\TrocaNumeros\bin\Debug\TrocaNumeros.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\TrocaNumeros\obj\Debug\TrocaNumeros.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\TrocaNumeros\obj\Debug\TrocaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\TrocaNumeros\obj\Debug\TrocaNumeros.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\TrocaNumeros\obj\Debug\TrocaNumeros.pdb

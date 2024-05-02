@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Elevador\bin\Debug\Elevador.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Elevador\bin\Debug\Elevador.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Elevador\bin\Debug\Elevador.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Elevador\obj\Debug\Elevador.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Elevador\obj\Debug\Elevador.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Elevador\obj\Debug\Elevador.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Basico\Elevador\obj\Debug\Elevador.pdb

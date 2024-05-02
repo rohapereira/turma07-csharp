@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\13OrdemCrescente\bin\Debug\13OrdemCrescente.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\13OrdemCrescente\bin\Debug\13OrdemCrescente.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\13OrdemCrescente\bin\Debug\13OrdemCrescente.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\13OrdemCrescente\obj\Debug\13OrdemDecrescente.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\13OrdemCrescente\obj\Debug\13OrdemDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\13OrdemCrescente\obj\Debug\13OrdemCrescente.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\13OrdemCrescente\obj\Debug\13OrdemCrescente.pdb

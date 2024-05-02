@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Primos\bin\Debug\Primos.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Primos\bin\Debug\Primos.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Primos\bin\Debug\Primos.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Primos\obj\Debug\NumerosPrimos.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Primos\obj\Debug\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Primos\obj\Debug\Primos.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExtrasVetores\Primos\obj\Debug\Primos.pdb

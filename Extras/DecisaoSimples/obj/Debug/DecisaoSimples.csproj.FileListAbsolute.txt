@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\DecisaoSimples\bin\Debug\DecisaoSimples.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\DecisaoSimples\bin\Debug\DecisaoSimples.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\DecisaoSimples\bin\Debug\DecisaoSimples.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\DecisaoSimples\obj\Debug\DecisaoSimples.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\DecisaoSimples\obj\Debug\DecisaoSimples.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\DecisaoSimples\obj\Debug\DecisaoSimples.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Extras\DecisaoSimples\obj\Debug\DecisaoSimples.pdb

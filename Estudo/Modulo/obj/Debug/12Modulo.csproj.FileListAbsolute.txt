@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Modulo\bin\Debug\Modulo.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Modulo\bin\Debug\Modulo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Modulo\bin\Debug\Modulo.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Modulo\obj\Debug\12Modulo.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Modulo\obj\Debug\12Modulo.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Modulo\obj\Debug\Modulo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\Modulo\obj\Debug\Modulo.pdb
