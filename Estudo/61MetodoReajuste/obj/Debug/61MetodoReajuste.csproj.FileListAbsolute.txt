@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\61MetodoReajuste\bin\Debug\61MetodoReajuste.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\61MetodoReajuste\bin\Debug\61MetodoReajuste.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\61MetodoReajuste\bin\Debug\61MetodoReajuste.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\61MetodoReajuste\obj\Debug\61MetodoReajuste.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\61MetodoReajuste\obj\Debug\61MetodoReajuste.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\61MetodoReajuste\obj\Debug\61MetodoReajuste.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\61MetodoReajuste\obj\Debug\61MetodoReajuste.pdb

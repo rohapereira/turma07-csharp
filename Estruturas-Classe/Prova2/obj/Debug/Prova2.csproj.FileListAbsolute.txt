@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Prova2\bin\Debug\Prova2.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Prova2\bin\Debug\Prova2.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Prova2\bin\Debug\Prova2.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Prova2\obj\Debug\Prova2.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Prova2\obj\Debug\Prova2.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Prova2\obj\Debug\Prova2.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Prova2\obj\Debug\Prova2.pdb

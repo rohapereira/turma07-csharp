@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\52LerVetor\bin\Debug\52LerVetor.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\52LerVetor\bin\Debug\52LerVetor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\52LerVetor\bin\Debug\52LerVetor.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\52LerVetor\obj\Debug\52LerVetor.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\52LerVetor\obj\Debug\52LerVetor.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\52LerVetor\obj\Debug\52LerVetor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\52LerVetor\obj\Debug\52LerVetor.pdb

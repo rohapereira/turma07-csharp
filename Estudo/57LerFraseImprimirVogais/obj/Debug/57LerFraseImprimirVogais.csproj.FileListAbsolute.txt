@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\57LerFraseImprimirVogais\bin\Debug\57LerFraseImprimirVogais.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\57LerFraseImprimirVogais\bin\Debug\57LerFraseImprimirVogais.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\57LerFraseImprimirVogais\bin\Debug\57LerFraseImprimirVogais.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\57LerFraseImprimirVogais\obj\Debug\57LerFraseImprimirVogais.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\57LerFraseImprimirVogais\obj\Debug\57LerFraseImprimirVogais.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\57LerFraseImprimirVogais\obj\Debug\57LerFraseImprimirVogais.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\57LerFraseImprimirVogais\obj\Debug\57LerFraseImprimirVogais.pdb

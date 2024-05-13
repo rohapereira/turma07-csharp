@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\59DistanciaEntreCaracteres\bin\Debug\59DistanciaEntreCaracteres.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\59DistanciaEntreCaracteres\bin\Debug\59DistanciaEntreCaracteres.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\59DistanciaEntreCaracteres\bin\Debug\59DistanciaEntreCaracteres.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\59DistanciaEntreCaracteres\obj\Debug\59DistanciaEntreCaracteres.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\59DistanciaEntreCaracteres\obj\Debug\59DistanciaEntreCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\59DistanciaEntreCaracteres\obj\Debug\59DistanciaEntreCaracteres.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\59DistanciaEntreCaracteres\obj\Debug\59DistanciaEntreCaracteres.pdb

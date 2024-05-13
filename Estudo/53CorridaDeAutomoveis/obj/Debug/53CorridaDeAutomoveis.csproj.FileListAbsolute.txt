@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\53CorridaDeAutomoveis\bin\Debug\53CorridaDeAutomoveis.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\53CorridaDeAutomoveis\bin\Debug\53CorridaDeAutomoveis.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\53CorridaDeAutomoveis\bin\Debug\53CorridaDeAutomoveis.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\53CorridaDeAutomoveis\obj\Debug\53CorridaDeAutomoveis.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\53CorridaDeAutomoveis\obj\Debug\53CorridaDeAutomoveis.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\53CorridaDeAutomoveis\obj\Debug\53CorridaDeAutomoveis.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\53CorridaDeAutomoveis\obj\Debug\53CorridaDeAutomoveis.pdb

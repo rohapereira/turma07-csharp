@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\58LerVetorEFazerCalculos\bin\Debug\58LerVetorEFazerCalculos.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\58LerVetorEFazerCalculos\bin\Debug\58LerVetorEFazerCalculos.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\58LerVetorEFazerCalculos\bin\Debug\58LerVetorEFazerCalculos.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\58LerVetorEFazerCalculos\obj\Debug\58LerVetorEFazerCalculos.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\58LerVetorEFazerCalculos\obj\Debug\58LerVetorEFazerCalculos.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\58LerVetorEFazerCalculos\obj\Debug\58LerVetorEFazerCalculos.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\58LerVetorEFazerCalculos\obj\Debug\58LerVetorEFazerCalculos.pdb

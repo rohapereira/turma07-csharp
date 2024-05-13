@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace Jogo
 {
-    internal class ArmaExplosiva
+    internal sealed class ArmaExplosiva:ArmaDeFogo
     {
         public double RaioDeExplosao { get; }
 
-        public ArmaExplosiva (double raioExplosaoM2)
+        public ArmaExplosiva (string nome, int alcance, double raioExplosaoM2)
+                        :base(nome, alcance)
         {
             this.RaioDeExplosao = raioExplosaoM2;
         }

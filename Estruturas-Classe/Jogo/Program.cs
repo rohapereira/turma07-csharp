@@ -10,9 +10,23 @@ namespace Jogo
     {
         static void Main(string[] args)
         {
-            Arma faca = new Arma("Faca");
+            ArmaBranca faca = new ArmaBranca("Faca");
 
-            Arma bazuca = new Arma("Bazuca");
+            //ArmaDeFogo pistola = new ArmaDeFogo("PistolaX", 50);
+
+            ArmaDeFogo metralhadora = new ArmaDeFogo("P90", 150);
+            metralhadora.Dano = 35;
+
+            ArmaExplosiva bomba = new ArmaExplosiva("Dinamite", 5, 3);
+
+            Console.WriteLine(Arma.getContador());
+
+            Personagens p1 = new Personagens();
+
+            p1.Nome = "Persona1";
+            p1.Time = "Vilão";
+            p1.adicionarItemInventario(faca);
+            p1.adicionarItemInventario(metralhadora);
         }
     }
 }

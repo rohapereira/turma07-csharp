@@ -44,9 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Acessorios.cs" />
+    <Compile Include="ArmaBranca.cs" />
     <Compile Include="ArmaDeFogo.cs" />
     <Compile Include="ArmaExplosiva.cs" />
     <Compile Include="Arma.cs" />
+    <Compile Include="ItemInventario.cs" />
     <Compile Include="Personagens.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

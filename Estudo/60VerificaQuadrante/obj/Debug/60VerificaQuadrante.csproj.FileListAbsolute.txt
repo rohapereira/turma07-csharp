@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\60VerificaQuadrante\bin\Debug\60VerificaQuadrante.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\60VerificaQuadrante\bin\Debug\60VerificaQuadrante.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\60VerificaQuadrante\bin\Debug\60VerificaQuadrante.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\60VerificaQuadrante\obj\Debug\60VerificaQuadrante.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\60VerificaQuadrante\obj\Debug\60VerificaQuadrante.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\60VerificaQuadrante\obj\Debug\60VerificaQuadrante.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\60VerificaQuadrante\obj\Debug\60VerificaQuadrante.pdb

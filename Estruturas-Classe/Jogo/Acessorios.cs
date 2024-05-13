@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Jogo
 {
-    internal class Acessorios
+    internal class Acessorios: ItemInventario //implementação (Interface - Contrato)
     {
-        public string Colete { get; set; }
-        public string Capacete { get; set; }
-        public string Bandagem { get; set; }
-        public string OculosDeVisaoNoturma { get; set; }
+        
     }
 }

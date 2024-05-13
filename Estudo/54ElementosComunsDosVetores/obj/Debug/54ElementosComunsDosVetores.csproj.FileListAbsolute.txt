@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\54ElementosComunsDosVetores\bin\Debug\54ElementosComunsDosVetores.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\54ElementosComunsDosVetores\bin\Debug\54ElementosComunsDosVetores.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\54ElementosComunsDosVetores\bin\Debug\54ElementosComunsDosVetores.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\54ElementosComunsDosVetores\obj\Debug\54ElementosComunsDosVetores.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\54ElementosComunsDosVetores\obj\Debug\54ElementosComunsDosVetores.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\54ElementosComunsDosVetores\obj\Debug\54ElementosComunsDosVetores.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\54ElementosComunsDosVetores\obj\Debug\54ElementosComunsDosVetores.pdb
