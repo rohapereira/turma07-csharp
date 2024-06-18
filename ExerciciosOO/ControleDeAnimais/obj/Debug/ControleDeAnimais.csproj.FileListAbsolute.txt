@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\ControleDeAnimais\bin\Debug\ControleDeAnimais.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\ControleDeAnimais\bin\Debug\ControleDeAnimais.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\ControleDeAnimais\bin\Debug\ControleDeAnimais.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\ControleDeAnimais\obj\Debug\ControleDeAnimais.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\ControleDeAnimais\obj\Debug\ControleDeAnimais.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\ControleDeAnimais\obj\Debug\ControleDeAnimais.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\ControleDeAnimais\obj\Debug\ControleDeAnimais.pdb

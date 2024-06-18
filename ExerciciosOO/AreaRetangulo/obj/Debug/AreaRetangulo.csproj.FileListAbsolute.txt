@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\AreaRetangulo\bin\Debug\AreaRetangulo.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\AreaRetangulo\bin\Debug\AreaRetangulo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\AreaRetangulo\bin\Debug\AreaRetangulo.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\AreaRetangulo\obj\Debug\AreaRetangulo.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\AreaRetangulo\obj\Debug\AreaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\AreaRetangulo\obj\Debug\AreaRetangulo.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\AreaRetangulo\obj\Debug\AreaRetangulo.pdb

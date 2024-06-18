@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\ParqueDiversao\bin\Debug\ParqueDiversao.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\ParqueDiversao\bin\Debug\ParqueDiversao.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\ParqueDiversao\bin\Debug\ParqueDiversao.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\ParqueDiversao\obj\Debug\ParqueDiversao.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\ParqueDiversao\obj\Debug\ParqueDiversao.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\ParqueDiversao\obj\Debug\ParqueDiversao.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\ParqueDiversao\obj\Debug\ParqueDiversao.pdb

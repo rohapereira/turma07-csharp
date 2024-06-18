@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\64MetodosOpcoesVetor\bin\Debug\64MetodosOpcoesVetor.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\64MetodosOpcoesVetor\bin\Debug\64MetodosOpcoesVetor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\64MetodosOpcoesVetor\bin\Debug\64MetodosOpcoesVetor.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\64MetodosOpcoesVetor\obj\Debug\64MetodosOpcoesVetor.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\64MetodosOpcoesVetor\obj\Debug\64MetodosOpcoesVetor.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\64MetodosOpcoesVetor\obj\Debug\64MetodosOpcoesVetor.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\64MetodosOpcoesVetor\obj\Debug\64MetodosOpcoesVetor.pdb

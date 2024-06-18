@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\Lista1Exercicio03\bin\Debug\Lista1Exercicio03.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\Lista1Exercicio03\bin\Debug\Lista1Exercicio03.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\Lista1Exercicio03\bin\Debug\Lista1Exercicio03.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\Lista1Exercicio03\obj\Debug\Lista1Exercicio03.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\Lista1Exercicio03\obj\Debug\Lista1Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\Lista1Exercicio03\obj\Debug\Lista1Exercicio03.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\ExerciciosOO\Lista1Exercicio03\obj\Debug\Lista1Exercicio03.pdb

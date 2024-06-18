@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\62MetodoHipotenusa\bin\Debug\62MetodoHipotenusa.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\62MetodoHipotenusa\bin\Debug\62MetodoHipotenusa.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\62MetodoHipotenusa\bin\Debug\62MetodoHipotenusa.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\62MetodoHipotenusa\obj\Debug\62MetodoHipotenusa.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\62MetodoHipotenusa\obj\Debug\62MetodoHipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\62MetodoHipotenusa\obj\Debug\62MetodoHipotenusa.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estudo\62MetodoHipotenusa\obj\Debug\62MetodoHipotenusa.pdb

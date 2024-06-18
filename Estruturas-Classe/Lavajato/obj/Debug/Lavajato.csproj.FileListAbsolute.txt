@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Lavajato\bin\Debug\Lavajato.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Lavajato\bin\Debug\Lavajato.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Lavajato\bin\Debug\Lavajato.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Lavajato\obj\Debug\Lavajato.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Lavajato\obj\Debug\Lavajato.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Lavajato\obj\Debug\Lavajato.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Lavajato\obj\Debug\Lavajato.pdb

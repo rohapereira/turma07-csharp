@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BAA727B-6CE1-4CC5-8B46-FEBB11E66FBB}|61MetodoReajuste\\61MetodoReajuste.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\estudo\\61metodoreajuste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BAA727B-6CE1-4CC5-8B46-FEBB11E66FBB}|61MetodoReajuste\\61MetodoReajuste.csproj|solutionrelative:61metodoreajuste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2117A38D-8D38-44A3-A636-B4D33FDFB289}|64MetodosOpcoesVetor\\64MetodosOpcoesVetor.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\estudo\\64metodosopcoesvetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2117A38D-8D38-44A3-A636-B4D33FDFB289}|64MetodosOpcoesVetor\\64MetodosOpcoesVetor.csproj|solutionrelative:64metodosopcoesvetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{884FD7AE-9FEF-4218-BDBF-05CFF9F009AC}|57LerFraseImprimirVogais\\57LerFraseImprimirVogais.csproj|C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\57lerfraseimprimirvogais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{884FD7AE-9FEF-4218-BDBF-05CFF9F009AC}|57LerFraseImprimirVogais\\57LerFraseImprimirVogais.csproj|solutionrelative:57lerfraseimprimirvogais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{739FE907-6FAE-4F65-9E84-C504380F466C}|63MetodoParImpar\\63MetodoParImpar.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\estudo\\63metodoparimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739FE907-6FAE-4F65-9E84-C504380F466C}|63MetodoParImpar\\63MetodoParImpar.csproj|solutionrelative:63metodoparimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89FC30A9-E66D-41C3-8A4B-26465D0C4570}|58LerVetorEFazerCalculos\\58LerVetorEFazerCalculos.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\estudo\\58lervetorefazercalculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89FC30A9-E66D-41C3-8A4B-26465D0C4570}|58LerVetorEFazerCalculos\\58LerVetorEFazerCalculos.csproj|solutionrelative:58lervetorefazercalculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C727A7C-AE42-457C-B12C-83CB21E49BBF}|59DistanciaEntreCaracteres\\59DistanciaEntreCaracteres.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\estudo\\59distanciaentrecaracteres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C727A7C-AE42-457C-B12C-83CB21E49BBF}|59DistanciaEntreCaracteres\\59DistanciaEntreCaracteres.csproj|solutionrelative:59distanciaentrecaracteres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{988F80FB-DC62-49C9-B177-4B3A456EC75B}|60VerificaQuadrante\\60VerificaQuadrante.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\estudo\\60verificaquadrante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{988F80FB-DC62-49C9-B177-4B3A456EC75B}|60VerificaQuadrante\\60VerificaQuadrante.csproj|solutionrelative:60verificaquadrante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90CCB1CB-8020-4506-A558-2113216EA97D}|62MetodoHipotenusa\\62MetodoHipotenusa.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\estudo\\62metodohipotenusa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CCB1CB-8020-4506-A558-2113216EA97D}|62MetodoHipotenusa\\62MetodoHipotenusa.csproj|solutionrelative:62metodohipotenusa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,65 +32,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\61MetodoReajuste\\Program.cs",
-              "RelativeDocumentMoniker": "61MetodoReajuste\\Program.cs",
-              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\61MetodoReajuste\\Program.cs",
-              "RelativeToolTip": "61MetodoReajuste\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\64MetodosOpcoesVetor\\Program.cs",
+              "RelativeDocumentMoniker": "64MetodosOpcoesVetor\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\64MetodosOpcoesVetor\\Program.cs",
+              "RelativeToolTip": "64MetodosOpcoesVetor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T11:59:50.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\60VerificaQuadrante\\Program.cs",
-              "RelativeDocumentMoniker": "60VerificaQuadrante\\Program.cs",
-              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\60VerificaQuadrante\\Program.cs",
-              "RelativeToolTip": "60VerificaQuadrante\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAACQAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T11:41:27.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\59DistanciaEntreCaracteres\\Program.cs",
-              "RelativeDocumentMoniker": "59DistanciaEntreCaracteres\\Program.cs",
-              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\59DistanciaEntreCaracteres\\Program.cs",
-              "RelativeToolTip": "59DistanciaEntreCaracteres\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T11:26:51.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\58LerVetorEFazerCalculos\\Program.cs",
-              "RelativeDocumentMoniker": "58LerVetorEFazerCalculos\\Program.cs",
-              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\58LerVetorEFazerCalculos\\Program.cs",
-              "RelativeToolTip": "58LerVetorEFazerCalculos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T19:16:08.669Z",
+              "WhenOpened": "2024-05-20T13:52:11.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\57LerFraseImprimirVogais\\Program.cs",
-              "RelativeDocumentMoniker": "57LerFraseImprimirVogais\\Program.cs",
-              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\57LerFraseImprimirVogais\\Program.cs",
-              "RelativeToolTip": "57LerFraseImprimirVogais\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB4AAAAfAAAA",
+              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\63MetodoParImpar\\Program.cs",
+              "RelativeDocumentMoniker": "63MetodoParImpar\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\63MetodoParImpar\\Program.cs",
+              "RelativeToolTip": "63MetodoParImpar\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T19:00:09.906Z",
+              "WhenOpened": "2024-05-20T13:18:38.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\62MetodoHipotenusa\\Program.cs",
+              "RelativeDocumentMoniker": "62MetodoHipotenusa\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estudo\\62MetodoHipotenusa\\Program.cs",
+              "RelativeToolTip": "62MetodoHipotenusa\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:43:33.56Z",
               "EditorCaption": ""
             }
           ]

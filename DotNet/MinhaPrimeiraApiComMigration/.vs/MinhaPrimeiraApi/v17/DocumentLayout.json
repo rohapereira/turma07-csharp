@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\DotNet\\MinhaPrimeiraApiComMigration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF871E06-A103-4DBE-948E-C88C79F837A8}|MinhaPrimeiraApi.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\dotnet\\minhaprimeiraapicommigration\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF871E06-A103-4DBE-948E-C88C79F837A8}|MinhaPrimeiraApi.csproj|solutionrelative:controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF871E06-A103-4DBE-948E-C88C79F837A8}|MinhaPrimeiraApi.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\dotnet\\minhaprimeiraapicommigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF871E06-A103-4DBE-948E-C88C79F837A8}|MinhaPrimeiraApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF871E06-A103-4DBE-948E-C88C79F837A8}|MinhaPrimeiraApi.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\dotnet\\minhaprimeiraapicommigration\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF871E06-A103-4DBE-948E-C88C79F837A8}|MinhaPrimeiraApi.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\DotNet\\MinhaPrimeiraApiComMigration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\DotNet\\MinhaPrimeiraApiComMigration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:35:33.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\DotNet\\MinhaPrimeiraApiComMigration\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\DotNet\\MinhaPrimeiraApiComMigration\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:20:13.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\DotNet\\MinhaPrimeiraApiComMigration\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\DotNet\\MinhaPrimeiraApiComMigration\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:53:17.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
