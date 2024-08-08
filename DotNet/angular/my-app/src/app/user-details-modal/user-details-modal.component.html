@@ -1,0 +1,23 @@
+<div class="user-report">
+    <h2>User Report</h2>
+
+    <table mat-table [dataSource]="userList" class="mat-elevation-z8">
+        <ng-container matColumnDef="name">
+            <th mat-header-cell *matHeaderCellDef>Name</th>
+            <td mat-cell *matCellDef="let user" (click)="selectUser(user)">{{user.nome}}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="endereco">
+            <th mat-header-cell *matHeaderCellDef>Endereço</th>
+            <td mat-cell *matCellDef="let user" (click)="selectUser(user)">{{user.endereco}}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="email">
+            <th mat-header-cell *matHeaderCellDef>E-mail</th>
+            <td mat-cell *matCellDef="let user" (click)="selectUser(user)">{{user.email}}</td>
+        </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="['name', 'endereco', 'email']"></tr>
+        <tr mat-row *matRowDef="let row; columns: ['name', 'endereco', 'email'];"></tr>
+    </table>
+</div>

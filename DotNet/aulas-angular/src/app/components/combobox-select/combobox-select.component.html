@@ -1,0 +1,13 @@
+<div class="container">
+    <mat-form-field>
+      <mat-label>Carros</mat-label>
+      <mat-select [(ngModel)]="carroSelecionado" name="car">
+        <mat-option *ngFor="let carro of carros" [value]="carro.Nome">
+          {{carro.Nome}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+    <div class="selecionado">
+      <p>Carro selecionado: {{carroSelecionado}}</p>
+    </div>
+  </div>

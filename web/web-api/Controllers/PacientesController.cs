@@ -1,160 +1,116 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
-using System.Web.Http;
-using System.Data.SqlClient;
-using web_api.Models;
+﻿using System.Web.Http;
+using System;
+using System.IO;
+using System.Threading.Tasks;
+using System.Web.Http.Cors;
 
 namespace web_api.Controllers
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class PacientesController : ApiController
     {
-        // GET: api/Pacientes
-        public IHttpActionResult Get()
+        public readonly Repositories.SQLServer.Paciente repositorioPaciente;
+
+        public PacientesController()
         {
-            List<Models.Paciente> pacientes = new List<Models.Paciente>();
+            this.repositorioPaciente = new Repositories.SQLServer.Paciente(Configurations.Database.getConnectionString());
+        }
 
-            string connectionString = @"Server=DESKTOP-LQE5S1B\MSSQLSERVER,1433;Database=consultorio;Trusted_Connection=True;";
-
-            using (SqlConnection conn = new SqlConnection(connectionString))
+        // GET: api/Pacientes
+        [HttpGet]
+        public async Task<IHttpActionResult> SelectAll()
+        {
+            try
             {
-                conn.Open();
-
-                using (SqlCommand cmd = new SqlCommand())
-                {
-                    cmd.CommandText = "select codigo, nome, datanascimento from paciente";
-                    cmd.Connection = conn;
-
-                    using (SqlDataReader dr = cmd.ExecuteReader())
-                    {
-                        while (dr.Read())
-                        {
-                            Models.Paciente paciente = new Models.Paciente();
-
-                            paciente.Codigo = (int)dr["codigo"];
-                            paciente.Nome = (string)dr["nome"];
-                            paciente.DataNascimento = (DateTime)dr["datanascimento"];
-
-                            pacientes.Add(paciente);
-                        }
-                    }
-                }
+                return Ok(await this.repositorioPaciente.GetAll());
             }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
 
-            return Ok(pacientes);
+                return InternalServerError();
+            }
         }
 
         // GET: api/Pacientes/5
-        public IHttpActionResult Get(int id)
+        [HttpGet]
+        public async Task<IHttpActionResult> SelectById(int id)
         {
-            Models.Paciente paciente = new Models.Paciente();
-
-            string connectionString = @"Server=DESKTOP-LQE5S1B\MSSQLSERVER,1433;Database=consultorio;Trusted_Connection=True;";
-
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            try
             {
-                conn.Open();
+                Models.Paciente paciente = await this.repositorioPaciente.GetById(id);
 
-                using (SqlCommand cmd = new SqlCommand())
-                {
-                    cmd.CommandText = $"select codigo, nome, datanascimento from paciente where codigo = {id};";
-                    cmd.Connection = conn;
-                    using (SqlDataReader dr = cmd.ExecuteReader())
-                    {
-                        if (dr.Read())
-                        {
-                            paciente.Codigo = (int)dr["codigo"];
-                            paciente.Nome = (string)dr["nome"];
-                            paciente.DataNascimento = (DateTime)dr["datanascimento"];
-                        }
-                        else
-                            return NotFound();
-                    }
-                }
+                if (paciente == null)
+                    return NotFound();
+
+                return Ok(paciente);
             }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
 
-            return Ok(paciente);
+                return InternalServerError();
+            }
         }
 
         // POST: api/Pacientes
-        public IHttpActionResult Post(Models.Paciente paciente)
+        [HttpPost]
+        public async Task<IHttpActionResult> Insert(Models.Paciente paciente)
         {
-            string connectionString = @"Server=DESKTOP-LQE5S1B\MSSQLSERVER,1433;Database=consultorio;Trusted_Connection=True;";
-
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            try
             {
-                conn.Open();
+                if (!await this.repositorioPaciente.Add(paciente))
+                    return InternalServerError();
 
-                using (SqlCommand cmd = new SqlCommand())
-                {
-                    string dataNascimentoFormatada = paciente.DataNascimento.ToString("yyyy-MM-dd");
-
-                    cmd.CommandText = $"insert into paciente (nome,datanascimento) values ('{paciente.Nome}','{dataNascimentoFormatada}'); select convert(int,SCOPE_IDENTITY()) as codigo";
-                    cmd.Connection = conn;
-                    paciente.Codigo = (int)cmd.ExecuteScalar();
-                }
+                return Ok(paciente);
             }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
 
-            if (paciente.Codigo == 0)
-                return BadRequest();
-
-            return Ok(paciente);
+                return InternalServerError();
+            }
         }
 
         // PUT: api/Pacientes/5
-        public IHttpActionResult Put(int id, [FromBody] Models.Paciente paciente)
+        [HttpPut]
+        public async Task<IHttpActionResult> Update(int id, Models.Paciente paciente)
         {
-            string connectionString = @"Server=DESKTOP-LQE5S1B\MSSQLSERVER,1433;Database=consultorio;Trusted_Connection=True;";
-
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            try
             {
-                conn.Open();
+                if (id != paciente.Codigo)
+                    return BadRequest("O codigo da requisição não coincide com o Codigo do paciente.");
 
-                using (SqlCommand cmd = new SqlCommand())
-                {
-                    string dataNascimentoFormatada = paciente.DataNascimento.ToString("yyyy-MM-dd");
+                if (!await this.repositorioPaciente.Update(paciente))
+                    return InternalServerError();
 
-                    cmd.CommandText = $"update paciente set nome = '{paciente.Nome}', datanascimento = '{dataNascimentoFormatada}' where codigo = {id}";
-                    cmd.Connection = conn;
-
-                    int linhasAfetadas = cmd.ExecuteNonQuery();
-
-                    if (linhasAfetadas == 0)
-                    {
-                        return NotFound();
-                    }
-                }
+                return Ok(paciente);
             }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
 
-            return Ok($"Paciente {id} alterado com sucesso!");
+                return InternalServerError();
+            }
         }
 
         // DELETE: api/Pacientes/5
-        public IHttpActionResult Delete(int id)
+        [HttpDelete]
+        public async Task<IHttpActionResult> Delete(int id)
         {
-            string connectionString = @"Server=DESKTOP-LQE5S1B\MSSQLSERVER,1433;Database=consultorio;Trusted_Connection=True;";
-
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            try
             {
-                conn.Open();
+                if (!await this.repositorioPaciente.DeleteById(id))
+                    return NotFound();
 
-                using (SqlCommand cmd = new SqlCommand())
-                {
-                    cmd.CommandText = $"delete from paciente where codigo = {id}";
-                    cmd.Connection = conn;
-
-                    int linhasAfetadas = cmd.ExecuteNonQuery();
-
-                    if (linhasAfetadas == 0)
-                    {
-                        return NotFound();
-                    }
-                }
+                return Ok();
             }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
 
-            return Ok($"Paciente {id} foi removido com sucesso!");
+                return InternalServerError();
+            }
         }
     }
 }

@@ -1,0 +1,11 @@
+<div class="container">
+    <mat-selection-list #calcados>
+        <mat-list-option *ngFor="let calcado of tiposDeCalcados">
+            {{calcado}}
+        </mat-list-option>
+    </mat-selection-list>
+
+    <div class="selecionados">
+        Calçados selecionados: {{calcados.selectedOptions.selected.length}}
+    </div>
+</div>

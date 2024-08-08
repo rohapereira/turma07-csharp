@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 15rem;
+    flex-wrap: wrap;
+}
+
+.selecionado{
+    display: block;
+    width: 100%;
+    text-align: center;
+}

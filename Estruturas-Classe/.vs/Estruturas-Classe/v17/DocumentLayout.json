@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9C20B32-D578-4546-B6EC-41A0DB2127D1}|Consultorio\\Consultorio.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\estruturas-classe\\consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9C20B32-D578-4546-B6EC-41A0DB2127D1}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44014354-7714-49D3-BF49-6C2724F703D0}|Faculdade\\Faculdade.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\estruturas-classe\\faculdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44014354-7714-49D3-BF49-6C2724F703D0}|Faculdade\\Faculdade.csproj|solutionrelative:faculdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9C20B32-D578-4546-B6EC-41A0DB2127D1}|Consultorio\\Consultorio.csproj|C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\consultorio\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9C20B32-D578-4546-B6EC-41A0DB2127D1}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9C20B32-D578-4546-B6EC-41A0DB2127D1}|Consultorio\\Consultorio.csproj|C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\consultorio\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{E9C20B32-D578-4546-B6EC-41A0DB2127D1}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{44014354-7714-49D3-BF49-6C2724F703D0}|Faculdade\\Faculdade.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\estruturas-classe\\faculdade\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44014354-7714-49D3-BF49-6C2724F703D0}|Faculdade\\Faculdade.csproj|solutionrelative:faculdade\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,37 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\Consultorio\\Paciente.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Paciente.cs",
-              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\Consultorio\\Paciente.cs",
-              "RelativeToolTip": "Consultorio\\Paciente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\Faculdade\\Aluno.cs",
+              "RelativeDocumentMoniker": "Faculdade\\Aluno.cs",
+              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\Faculdade\\Aluno.cs",
+              "RelativeToolTip": "Faculdade\\Aluno.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T23:10:14.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\Consultorio\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "Consultorio\\ClassDiagram1.cd",
-              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\Consultorio\\ClassDiagram1.cd",
-              "RelativeToolTip": "Consultorio\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-05-22T19:00:11.719Z"
+              "WhenOpened": "2024-06-24T12:58:40.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\Consultorio\\Program.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Program.cs",
-              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\Consultorio\\Program.cs",
-              "RelativeToolTip": "Consultorio\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\Faculdade\\Program.cs",
+              "RelativeDocumentMoniker": "Faculdade\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\Estruturas-Classe\\Faculdade\\Program.cs",
+              "RelativeToolTip": "Faculdade\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:46:29.499Z",
+              "WhenOpened": "2024-06-24T12:58:14.082Z",
               "EditorCaption": ""
             }
           ]

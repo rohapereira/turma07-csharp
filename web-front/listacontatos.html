@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Contatos</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+    <header>
+        <nav class="pure-menu pure-menu-horizontal">
+            <a href="index.html" class="pure-menu-heading pure-menu-link">Home</a>
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item"><a class="pure-menu-link" href="contato.html">Contato</a></li>
+                <li class="pure-menu-item"><a class="pure-menu-link" href="listacontatos.html">Lista de contatos</a></li>
+                <li class="pure-menu-item"><a class="pure-menu-link" href="http://www.google.com.br" target="_blank">Google</a></li>
+            </ul>
+        </nav>
+        <form class="pure-form pure-form-aligned">
+            <h1>Lista de Contatos</h1>
+            <fieldset>
+                <div class="pure-control-group">
+                    <label for="sid">Id:</label>
+                    <input type="number" id="sid">
+                </div>
+                <div class="pure-control-group">
+                    <label for="snome">Nome</label>
+                    <input type="text" id="snome">
+                </div>
+                <div class="pure-controls">
+                    <button type="button" class="pure-button pure-button-primary">Pesquisar</button>
+                </div>
+            </fieldset>
+        </form>
+    </header>
+    <main>
+        <table class="pure-table pure-table-horizontal">
+            <caption>Lista de contatos</caption>
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nome</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Joca</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>Jasmin</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Arthur</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>Danilo</td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+    <footer>
+        <p>Desenvolvido por: &copy;Rodrigo Alves Pereira</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<div class="user-details-modal">
+    <button mat-raised-button color="primary" (click)="openAllUsersModal()">Buscar</button>
+    <h2>User Details</h2>
+    <div class="user-details-modal-content">
+        <p><strong>ID: </strong>{{user.id}}</p>
+        <p><strong>Nome: </strong>{{user.nome}}</p>
+        <p><strong>Endereço: </strong>{{user.endereco}}</p>
+        <p><strong>E-mail: </strong>{{user.email}}</p>
+    </div>
+    <button mat-flat-button color="accent" class="back-button" (click)="goBack()">Go Back</button>
+</div>

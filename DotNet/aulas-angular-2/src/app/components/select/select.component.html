@@ -1,0 +1,28 @@
+<div class="container">
+    <mat-form-field>
+      <mat-label>Carro</mat-label>
+      <mat-select [(ngModel)]="carroSelecionado" name="car">
+        <mat-option *ngFor="let carro of carros" [value]="carro.marca">
+          {{carro.marca}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+</div>
+<div class="carroSelecionado">
+    <p>O carro selecionado é: {{carroSelecionado}}</p>
+</div>
+
+<div class="lista">
+    <mat-list role="list">
+        <mat-list-item role="listitem" *ngFor="let carro of carros">
+            Código: {{carro.codigo}} | Marca/Modelo: {{carro.marca}}
+        </mat-list-item>
+    </mat-list>
+</div>
+
+<div class="botao">
+  <button mat-raised-button>Basico</button>
+  <button mat-raised-button color="primary">Primario</button>
+  <button mat-raised-button color="accent">Acento</button>
+  <button mat-raised-button disabled>Desativado</button>
+</div>

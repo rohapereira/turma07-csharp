@@ -1,160 +1,180 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
-using System.Web.Http;
-using System.Data.SqlClient;
-using web_api.Models;
+﻿using System.Web.Http;
+using System;
+using System.IO;
+using System.Threading.Tasks;
+using System.Web.Http.Cors;
 
 namespace web_api.Controllers
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class MedicosController : ApiController
     {
-        // GET: api/Medicos
-        public IHttpActionResult Get()
+        // Atributo do Obejto MedicosContoller
+        private readonly Repositories.SQLServer.Medico repoMedico;
+
+        // Método construtor do controlador
+        public MedicosController()
         {
-            List<Models.Medico> medicos = new List<Models.Medico>();
+            this.repoMedico = new Repositories.SQLServer.Medico(Configurations.Database.getConnectionString()); // Instancia do repositorioMedico dentro do MedicosController
+        }
 
-            string connectionString = @"Server=DESKTOP-LQE5S1B\MSSQLSERVER,1433;Database=consultorio;Trusted_Connection=True;";
-
-            using (SqlConnection conn = new SqlConnection(connectionString))
+        // GET: api/Medicos
+        [HttpGet] // Notação do tipo de requisição que o método abaixo vai enxergar
+        public async Task<IHttpActionResult> Get()
+        {
+            try
             {
-                conn.Open();
-
-                using (SqlCommand cmd = new SqlCommand())
-                {
-                    cmd.CommandText = "SELECT crm, nome FROM medico";
-                    cmd.Connection = conn;
-
-                    using (SqlDataReader dr = cmd.ExecuteReader())
-                    {
-                        while (dr.Read())
-                        {
-                            Models.Medico medico = new Models.Medico();
-
-                            medico.CRM = (string)dr["crm"];
-                            medico.Nome = (string)dr["nome"];
-
-                            medicos.Add(medico);
-                        }
-                    }
-                }
+                return Ok(await this.repoMedico.GetAll()); // Chama o método GetAll dentro do repositorioMedico
             }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
 
-            return Ok(medicos);
+                return InternalServerError();
+            }
         }
 
         // GET: api/Medicos/5
-        [Route("api/medicos/{crm}")]
-        public IHttpActionResult Get(string crm) // Como corrigir para pesquisar por CRM?
+        [HttpGet]
+        public async Task<IHttpActionResult> Get(int id)
         {
-            Models.Medico medico = new Models.Medico();
-
-            string connectionString = @"Server=DESKTOP-LQE5S1B\MSSQLSERVER,1433;Database=consultorio;Trusted_Connection=True;";
-
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            try
             {
-                conn.Open();
+                Models.Medico medico = await this.repoMedico.GetById(id);//chama o método GetById dentro do repositorioMedico
+                if (medico == null)
+                    return NotFound();
 
-                using (SqlCommand cmd = new SqlCommand())
-                {
-                    cmd.CommandText = "select crm, nome from medico where crm = @crm;";
-                    cmd.Connection = conn;
-                    cmd.Parameters.AddWithValue("@crm", crm);
-
-                    using (SqlDataReader dr = cmd.ExecuteReader())
-                    {
-                        if (dr.Read())
-                        {
-                            medico.CRM = (string)dr["crm"];
-                            medico.Nome = (string)dr["nome"];
-                        }
-                        else
-                            return NotFound();
-                    }
-                }
+                return Ok(medico);
             }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
 
-            return Ok(medico);
+                return InternalServerError();
+            }
+        }
+
+        // GET: api/Medicos?crm=123
+        [HttpGet]
+        public async Task<IHttpActionResult> Get(string crm)
+        {
+            try
+            {
+                Models.Medico medico = await this.repoMedico.GetByCRM(crm); // chama o método GetByCRM dentro do repositorioMedico
+
+                if (medico == null)
+                    return NotFound();
+
+                return Ok(medico);
+            }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
+
+                return InternalServerError();
+            }
+        }
+
+        [HttpGet]
+        public async Task<IHttpActionResult> GetByName(string nome)
+        {
+            try
+            {
+                if (nome.Length < 3)
+                    return BadRequest("O nome deve ter no mínimo 3 caracteres");
+
+                return Ok(await this.repoMedico.GetByName(nome));
+            }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
+
+                return InternalServerError();
+            }
         }
 
         // POST: api/Medicos
-        public IHttpActionResult Post(Models.Medico medico)
+        [HttpPost]
+        public async Task<IHttpActionResult> Post(Models.Medico medico)
         {
-            int linhasAfetadas = 0;
-            string connectionString = @"Server=DESKTOP-LQE5S1B\MSSQLSERVER,1433;Database=consultorio;Trusted_Connection=True;";
-
-            using (SqlConnection conexao = new SqlConnection(connectionString))
+            try
             {
-                conexao.Open();
+                if (!ModelState.IsValid)
+                    return BadRequest(ModelState);
 
-                string sql = $"insert into medico(crm, nome) values('{medico.CRM}', '{medico.Nome}')";
+                if (!await this.repoMedico.Add(medico))
+                    return InternalServerError();
 
-                using (SqlCommand comando = new SqlCommand())
-                {
-                    comando.CommandText = sql;
-                    comando.Connection = conexao;
-                    linhasAfetadas = comando.ExecuteNonQuery();
-                }
+                return Ok(medico);
             }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
 
-            if (linhasAfetadas == 0)
                 return InternalServerError();
-
-            return Ok(medico);
+            }
         }
 
         // PUT: api/Medicos/5
-        public IHttpActionResult Put(int id, [FromBody] Models.Medico medico) // Como alterar médico por CRM?
+        [HttpPut]
+        public async Task<IHttpActionResult> Put(int id, Models.Medico medico)
         {
-            string connectionString = @"Server=DESKTOP-LQE5S1B\MSSQLSERVER,1433;Database=consultorio;Trusted_Connection=True;";
-
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            try
             {
-                conn.Open();
+                if (!ModelState.IsValid)
+                    return BadRequest(ModelState);
 
-                using (SqlCommand cmd = new SqlCommand())
-                {
-                    cmd.CommandText = $"update medico set crm = '{medico.CRM}', nome = '{medico.Nome}' where codigo = {id}";
-                    cmd.Connection = conn;
+                if (id != medico.Id)
+                    return BadRequest("O id da requisição não coincide com o Id do medico.");
 
-                    int linhasAfetadas = cmd.ExecuteNonQuery();
+                if (!await this.repoMedico.Update(id, medico))
+                    return InternalServerError();
 
-                    if (linhasAfetadas == 0)
-                    {
-                        return NotFound();
-                    }
-                }
+                return Ok(medico);
             }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
 
-            return Ok($"Médico de CRM {id} alterado com sucesso!");
+                return InternalServerError();
+            }
         }
 
         // DELETE: api/Medicos/5
-        public IHttpActionResult Delete(int id) // Como remover médico por CRM?
+        [HttpDelete]
+        public async Task<IHttpActionResult> Delete(int id)
         {
-            string connectionString = @"Server=DESKTOP-LQE5S1B\MSSQLSERVER,1433;Database=consultorio;Trusted_Connection=True;";
-
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            try
             {
-                conn.Open();
+                if (!await this.repoMedico.DeleteById(id))
+                    return NotFound();
 
-                using (SqlCommand cmd = new SqlCommand())
-                {
-                    cmd.CommandText = $"delete from medico where crm = {id}";
-                    cmd.Connection = conn;
-
-                    int linhasAfetadas = cmd.ExecuteNonQuery();
-
-                    if (linhasAfetadas == 0)
-                    {
-                        return NotFound();
-                    }
-                }
+                return Ok();
             }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
 
-            return Ok($"Médico de CRM {id} foi removido com sucesso!");
+                return InternalServerError();
+            }
+        }
+
+        [HttpDelete]
+        public async Task<IHttpActionResult> Delete(string crm)
+        {
+            try
+            {
+                if (!await this.repoMedico.DeleteByCRM(crm))
+                    return NotFound();
+
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                Util.Logger.WriteException(Configurations.Logger.getFullPath(), ex);
+
+                return InternalServerError();
+            }
         }
     }
 }

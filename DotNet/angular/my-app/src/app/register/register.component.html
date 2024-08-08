@@ -1,0 +1,24 @@
+<div class="register-container">
+    <div class="register-form">
+        <form class="register-form" (ngSubmit)="register()">
+            <mat-form-field appearance="outline">
+                <mat-label>Nome</mat-label>
+                <input matInput placeholder="Nome" name="nome" [(ngModel)]="user.nome">
+            </mat-form-field>
+
+            <mat-form-field appearance="outline">
+                <mat-label>Endereço</mat-label>
+                <input matInput placeholder="Endereço" name="endereco" [(ngModel)]="user.endereco">
+            </mat-form-field>
+
+            <mat-form-field appearance="outline">
+                <mat-label>E-mail</mat-label>
+                <input matInput placeholder="E-mail" name="email" [(ngModel)]="user.email">
+            </mat-form-field>
+
+            <button mat-raised-button color="primary" type="submit">Register</button>
+        </form>
+
+        <button mat-flat-button color="accent" class="back-button" (click)="goBack()">Go Back</button>
+    </div>
+</div>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+</head>
+<body>
+    <form>
+        <h1>Cadastro de Cliente</h1>
+
+        <h2>Dados pessoais:</h2>
+
+        <div>
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome">
+        </div>
+        <div>
+            <label for="sobrenome">Sobrenome:</label>
+            <input type="text" id="sobrenome">
+        </div>
+        <div>
+            <label for="sexo">Sexo:</label>
+            <select id="sexo">
+                <option value="1">--Selecione--</option>
+                <option value="2">Masculino</option>
+                <option value="3">Feminino</option>
+                <option value="4">Não informar</option>
+            </select>
+        </div>
+        <div>
+            <label for="cpf">CPF:</label>
+            <input type="text" placeholder="000.000.000-00" id="cpf" required>
+        </div>
+        <div>
+            <label for="celular">Celular:</label>
+            <input type="text" placeholder="(00) 00000-0000" id="celular" required>
+        </div>
+        <div>
+            <label for="dn">Data de nascimento:</label>
+            <input type="date" id="dn">
+        </div>
+        <div>
+            <label for="email">E-mail:</label>
+            <input type="email" id="email">
+        </div>
+
+        <h2>Endereço de entrega:</h2>
+
+        <div>
+            <label for="cep">CEP:</label>
+            <input type="number" placeholder="00000-000" id="cep" required>
+        </div>
+        <div>
+            <label for="rua">Rua:</label>
+            <input type="text" id="rua">
+        </div>
+        <div>
+            <label for="num">Numero:</label>
+            <input type="text" id="num">
+        </div>
+        <div>
+            <label for="com">Complemento:</label>
+            <input type="text" id="com">
+        </div>
+        <div>
+            <label for="ref">Referência:</label>
+            <textarea id="ref" rows="3" cols="40"></textarea>
+        </div>
+        <div>
+            <label for="bairro">Bairro:</label>
+            <input type="text" id="bairro">
+        </div>
+        <div>
+            <label for="cidade">Cidade:</label>
+            <input type="text" id="cidade">
+        </div>
+        <div>
+            <label for="estado">Estado:</label>
+            <input type="text" id="estado">
+        </div>
+        <div>
+            <button type="button" id="enviar">Salvar</button>
+            <button type="reset" id="limpar">Limpar</button>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<mat-form-field>
+  <mat-label>Filtro</mat-label>
+  <input matInput (keyup)="aplicarFiltro($event)" placeholder="Ex: Hidrogênio" #input>
+</mat-form-field>
+
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+
+  <ng-container matColumnDef="posicao">
+    <th mat-header-cell *matHeaderCellDef>Posição</th>
+    <td mat-cell *matCellDef="let elemento">{{elemento.posicao}}</td>
+  </ng-container>
+
+  <ng-container matColumnDef="nome">
+    <th mat-header-cell *matHeaderCellDef>Nome</th>
+    <td mat-cell *matCellDef="let elemento">{{elemento.nome}}</td>
+  </ng-container>
+
+  <ng-container matColumnDef="peso">
+    <th mat-header-cell *matHeaderCellDef>Peso</th>
+    <td mat-cell *matCellDef="let elemento">{{elemento.peso}}</td>
+  </ng-container>
+
+  <ng-container matColumnDef="simbolo">
+    <th mat-header-cell *matHeaderCellDef>Símbolo</th>
+    <td mat-cell *matCellDef="let elemento">{{elemento.simbolo}}</td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayColunas"></tr>
+  <tr mat-row *matRowDef="let elemento; columns: displayColunas;"></tr>
+
+  <tr class="mat-row" *matNoDataRow>
+    <td class="mat-cell" colspan="4">Nenhum dado encontrado para "{{input.value}}"</td>
+  </tr>
+
+</table>

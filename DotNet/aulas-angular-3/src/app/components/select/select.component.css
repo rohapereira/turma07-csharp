@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.carroSelecionado{
+    text-align: center;
+}
+
+.lista {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+}

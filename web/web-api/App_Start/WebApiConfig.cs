@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web.Http;
+﻿using System.Web.Http;
 
 namespace web_api
 {
@@ -10,6 +7,7 @@ namespace web_api
         public static void Register(HttpConfiguration config)
         {
             // Configuração e serviços de API Web
+            config.EnableCors();
 
             // Rotas de API Web
             config.MapHttpAttributeRoutes();

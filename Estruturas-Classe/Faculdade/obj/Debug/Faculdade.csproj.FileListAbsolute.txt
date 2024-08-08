@@ -1,0 +1,7 @@
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Faculdade\bin\Debug\Faculdade.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Faculdade\bin\Debug\Faculdade.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Faculdade\bin\Debug\Faculdade.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Faculdade\obj\Debug\Faculdade.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Faculdade\obj\Debug\Faculdade.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Faculdade\obj\Debug\Faculdade.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Estruturas-Classe\Faculdade\obj\Debug\Faculdade.pdb

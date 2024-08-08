@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medicamento</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="./css/index.css">
+    <script src="./JS/index.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="pure-menu pure-menu-horizontal">
+            <ul class="pure-menu-list">
+                <li class="pure-menu-heading pure-menu-link"><a href="../index.html" class="pure-menu-link">Home</a></li>
+                <li class="pure-menu-item"><a href="../medicos/index.html" class="pure-menu-link">Medico</a></li>
+                <li class="pure-menu-item"><a href="../pacientes/index.html" class="pure-menu-link">Paciente</a></li>
+                <li class="pure-menu-item"><a href="./index.html" class="pure-menu-link">Medicamento</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div>
+            <form class="pure-form">
+                <label for="id">Id:</label>
+                <input type="number" id="id" placeholder="Digite um Id">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" placeholder="Digite um Nome">
+                <button type="button" onclick="pesquisar()" class="pure-button pure-button-primary">Pesquisar</button>
+                <button type="button" onclick="novo()" class="pure-button">Novo</button>
+            </form>
+        </div>
+       <table class="pure-table pure-table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Data Fab.</th>
+                <th>Data Venc.</th>
+            </tr>
+        </thead>
+        <tbody data-list>
+            
+        </tbody>
+       </table> 
+    </main>
+    <footer>
+        <p>Desenvolvido por Rodrigo Alves Pereira &copy;</p>
+    </footer>
+</body>
+</html>

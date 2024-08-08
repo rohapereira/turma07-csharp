@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/estilo.css">
+    <script src="JS/contato.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="pure-menu pure-menu-horizontal">
+            <a href="index.html" class="pure-menu-heading pure-menu-link">Home</a>
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item"><a class="pure-menu-link" href="contato.html">Contato</a></li>
+                <li class="pure-menu-item"><a class="pure-menu-link" href="listacontatos.html">Lista de contatos</a></li>
+                <li class="pure-menu-item"><a class="pure-menu-link" href="http://www.google.com.br" target="_blank">Google</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <form class="pure-form pure-form-aligned">
+            <h1>Formulário de Contato</h1>
+            <div class="pure-control-group">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome"> 
+            </div>
+            <div class="pure-control-group">
+                <label for="email">E-mail:</label>
+                <input type="email" id="email">
+            </div>
+            <div class="pure-control-group">
+                <label for="dn">Data de Nascimento:</label>
+                <input type="date" id="dn">
+            </div>
+            <div class="pure-control-group">
+                <label for="motivo">Motivo:</label>
+                <label for="duvida">Dúvidas</label><input type="radio" name="motivo" id="duvida" value="1">
+                <label for="sugestao">Sugestões</label><input type="radio" name="motivo" id="sugestao" value="2">
+                <label for="reclamacao">Reclamações</label><input type="radio" name="motivo" id="reclamacao" value="3">
+                <label for="outros">Outros</label><input type="radio" name="motivo" id="outros" value="0">
+            </div>
+            <div class="pure-control-group">
+                <label for="motivo1">Motivo:</label>
+                <select id="motivo1">
+                    <option value="Selecione">--Selecione--</option>
+                    <option value="Dúvidas">Dúvidas</option>
+                    <option value="Sugestões">Sugestões</option>
+                    <option value="Reclamações">Reclamações</option>
+                </select>
+            </div>
+            <div class="pure-control-group">
+                <label for="descricao">Descrição:</label>
+                <textarea id="descricao" rows="10" cols="40"></textarea>
+            </div>
+            <div class="pure-controls">
+                <button type="button" id="enviar" onclick="validar()" class="pure-button pure-button-primary">Enviar</button>
+                <button type="reset" id="limpar" class="pure-button pure-button">Limpar</button>
+            </div>
+        </form>
+    </main>
+    <footer>
+        <p>Desenvolvido por: &copy;Rodrigo Alves Pereira</p>
+    </footer>
+</body>
+</html>

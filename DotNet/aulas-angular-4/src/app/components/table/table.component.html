@@ -1,0 +1,83 @@
+<div class="container" style="border: 1px solid black;">
+    <mat-form-field style="width: 100%;">
+        <mat-label>Filtro</mat-label>
+        <input matInput (keyup)="aplicarFiltro($event)" placeholder="Ex. Hidrogênio" #input>
+    </mat-form-field>
+
+    <table mat-table [dataSource]="dataSource" class="mat-elevation-z8 exemple-table">
+        <ng-container matColumnDef="posicao">
+            <th mat-header-cell *matHeaderCellDef>Posição</th>
+            <td mat-cell *matCellDef="let elemento" [class.bold]="elemento.peso > 8" [class.green]="elemento.peso > 10" [class.blue]="elemento.peso > 18">
+                <button mat-raised-button color="primary" (click)="selecionar(elemento)">Selecionar</button>
+            </td>
+        </ng-container>
+
+        <ng-container matColumnDef="nome">
+            <th mat-header-cell *matHeaderCellDef>Nome</th>
+            <td mat-cell *matCellDef="let elemento">{{elemento.nome}}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="peso">
+            <th mat-header-cell *matHeaderCellDef>Peso</th>
+            <td mat-cell *matCellDef="let elemento" [class.bold]="elemento.peso > 8" [class.green]="elemento.peso > 10" [class.blue]="elemento.peso > 18">{{elemento.peso}}</td>
+        </ng-container>
+
+        <ng-container matColumnDef="simbolo">
+            <th mat-header-cell *matHeaderCellDef>Símbolo</th>
+            <td mat-cell *matCellDef="let elemento">{{elemento.simbolo}}</td>
+        </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="displayColunas"></tr>
+        <tr mat-row (click)="AlterarDestaqueLinha(linha)" [class.clicked]="linhasClicadas.has(linha)" *matRowDef="let linha; columns: displayColunas;"></tr>
+
+        <tr class="mat-row" *matNoDataRow>
+            <td class="mat-cell" colspan="4">Nenhum dado encontrado para "{{input.value}}"</td>
+        </tr>
+    </table>
+
+    <mat-paginator [pageSizeOptions]="[5,10,20,100]" showFirstLastButtons></mat-paginator>
+</div>
+
+<div *ngIf="elementoSelecionado">
+    <h3 class="section-title">Editar elemento</h3>
+    <div class="form-container">
+        <mat-form-field>
+            <mat-label>Nome</mat-label>
+            <input matInput [(ngModel)]="elementoEditado.nome">
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>Peso</mat-label>
+            <input matInput [(ngModel)]="elementoEditado.peso">
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>Símbolo</mat-label>
+            <input matInput [(ngModel)]="elementoEditado.simbolo">
+        </mat-form-field>
+    </div>
+    <div class="button-container">
+        <button mat-raised-button color="primary" (click)="salvarEdicao()">Salvar</button>
+        <button mat-raised-button color="warn" (click)="cancelarEdicao()">Cancelar</button>
+        <button mat-raised-button color="warn" (click)="removerElemento()">Remover</button>
+    </div>
+</div>
+
+<div>
+    <h3 class="section-title">Adicionar novo Elemento</h3>
+    <div class="form-container">
+        <mat-form-field>
+            <mat-label>Nome</mat-label>
+            <input matInput [(ngModel)]="novoElemento.nome">
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>Peso</mat-label>
+            <input matInput [(ngModel)]="novoElemento.peso">
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>Símbolo</mat-label>
+            <input matInput [(ngModel)]="novoElemento.simbolo">
+        </mat-form-field>
+    </div>
+    <div class="button-container">
+        <button mat-raised-button color="primary" (click)="adicionarElemento()">Adicionar</button>
+    </div>
+</div>

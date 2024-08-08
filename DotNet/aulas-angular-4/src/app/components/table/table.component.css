@@ -1,0 +1,63 @@
+.exemplo-table {
+    width: 100%;
+}
+
+.mat-mdc-row .mat.mdc-cell {
+    border-bottom: 1px solid transparent;
+    border-top: 1px solid transparent;
+    cursor: pointer;
+}
+
+.mat-mdc-row.clicked .mat.mdc-cell {
+    background-color: red;
+}
+
+.mat-mdc-row:hover .mat.mdc-cell {
+    border-color: currentColor;
+}
+
+.bold {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.green {
+    color: green;
+    font-style: italic;
+}
+
+.blue {
+    color: blue;
+    font-style: italic;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.form.form-container mat-form-field {
+    margin-right: 16px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-container button {
+    margin: 0 8px;
+}
+
+h3.section-title {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
