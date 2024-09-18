@@ -1,0 +1,13 @@
+main{
+    margin-top: 20px;
+    text-align: center;
+}
+
+table{
+    margin: 20px auto;    
+    width: 60%;
+}
+
+table th{
+    text-align: center;    
+}

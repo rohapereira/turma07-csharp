@@ -11,3 +11,8 @@ table{
 table th{
     text-align: center;
 }
+
+.pure-button.active {
+    background-color: #0078e7;
+    color: white;
+}

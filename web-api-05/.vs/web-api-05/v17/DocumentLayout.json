@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\web-api-05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76E70BF8-B2C5-42AE-BFAE-2A0DEF64D8E7}|web-api-05\\web-api-05.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\web-api-05\\web-api-05\\repositories\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E70BF8-B2C5-42AE-BFAE-2A0DEF64D8E7}|web-api-05\\web-api-05.csproj|solutionrelative:web-api-05\\repositories\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76E70BF8-B2C5-42AE-BFAE-2A0DEF64D8E7}|web-api-05\\web-api-05.csproj|c:\\users\\\u00E744 444444ooooooooo\\documents\\turma07\\web-api-05\\web-api-05\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E70BF8-B2C5-42AE-BFAE-2A0DEF64D8E7}|web-api-05\\web-api-05.csproj|solutionrelative:web-api-05\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E70BF8-B2C5-42AE-BFAE-2A0DEF64D8E7}|web-api-05\\web-api-05.csproj|C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\web-api-05\\web-api-05\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E70BF8-B2C5-42AE-BFAE-2A0DEF64D8E7}|web-api-05\\web-api-05.csproj|solutionrelative:web-api-05\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76E70BF8-B2C5-42AE-BFAE-2A0DEF64D8E7}|web-api-05\\web-api-05.csproj|C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\web-api-05\\web-api-05\\repositories\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E70BF8-B2C5-42AE-BFAE-2A0DEF64D8E7}|web-api-05\\web-api-05.csproj|solutionrelative:web-api-05\\repositories\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76E70BF8-B2C5-42AE-BFAE-2A0DEF64D8E7}|web-api-05\\web-api-05.csproj|C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\web-api-05\\web-api-05\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\web-api-05\\web-api-05\\Repositories\\Produto.cs",
               "RelativeDocumentMoniker": "web-api-05\\Repositories\\Produto.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "web-api-05\\Repositories\\Produto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T00:46:31.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T00:46:31.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\\u00E744 444444ooooooooo\\Documents\\Turma07\\web-api-05\\web-api-05\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "web-api-05\\Models\\Produto.cs",
@@ -63,7 +62,8 @@
               "RelativeToolTip": "web-api-05\\Models\\Produto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T00:44:22.283Z"
+              "WhenOpened": "2024-08-02T00:44:22.283Z",
+              "EditorCaption": ""
             }
           ]
         }

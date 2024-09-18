@@ -1,0 +1,35 @@
+<app-header></app-header>
+    <main>
+        <form class="pure-form pure-form-aligned" id="medicamento-form">
+            <fieldset class="dinamico">
+                <legend>Edição de Medicamento</legend>
+                <div class="pure-control-group">
+                    <label>Id:</label>
+                    <input type="text" id="id" value="{{Medicamento.Id}}" disabled>
+                </div>
+                <div class="pure-control-group">
+                    <label for="nome">Nome:</label>
+                    <input type="text" id="nome" name="nome" placeholder="Digite um Nome" [(ngModel)]="this.Medicamento.Nome">
+                </div>
+                <div class="pure-control-group">
+                    <label for="dtfab">Data Fab:</label>
+                    <input type="date" id="dtfab" name="dtfab" 
+                        [ngModel]="this.Medicamento.DataDeFabricacao | date: 'yyyy-MM-dd'" 
+                        (ngModelChange)="this.Medicamento.DataDeFabricacao=$event">
+                </div>
+                <div class="pure-control-group">
+                    <label for="dtvenc">Data Venc:</label>
+                    <input type="date" id="dtvenc" name="dtvenc"
+                        [ngModel]="this.Medicamento.DataDeVencimento | date: 'yyyy-MM-dd'" 
+                        (ngModelChange)="this.Medicamento.DataDeVencimento=$event">
+                </div>
+                <div class="pure-controls">
+                    <button type="button" (click)="alterar()"
+                        class="pure-button pure-button-primary dinamico">Alterar</button>
+                    <button type="button" (click)="excluir()" class="pure-button dinamico">Excluir</button>
+                    <button type="button" routerLink="/medicamentos" class="pure-button">Voltar</button>
+                </div>
+            </fieldset>
+        </form>
+    </main>
+<app-footer></app-footer>

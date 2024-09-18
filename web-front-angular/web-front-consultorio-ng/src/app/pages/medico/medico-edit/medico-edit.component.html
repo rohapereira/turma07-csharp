@@ -1,0 +1,26 @@
+<app-header></app-header>
+<main>
+    <form class="pure-form pure-form-aligned">
+        <fieldset>
+            <legend>Alteração de Médicos</legend>
+            <div class="pure-control-group">
+                <label>Id:</label>
+                <input type="text" id="id" value="{{Medico.Id}}" disabled>
+            </div>
+            <div class="pure-control-group">
+                <label for="crm">CRM:</label>
+                <input type="text" id="crm" name="crm" [(ngModel)]="this.Medico.CRM">
+            </div>
+            <div class="pure-control-group">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" [(ngModel)]="this.Medico.Nome">
+            </div>
+            <div class="pure-controls">
+                <button type="button" (click)="alterar()" class="pure-button pure-button-primary">Alterar</button>
+                <button type="reset" (click)="excluir()" class="pure-button">Excluir</button>
+                <button type="button" routerLink="/medicos" class="pure-button">Voltar</button>
+            </div>
+        </fieldset>
+    </form>
+</main>
+<app-footer></app-footer>

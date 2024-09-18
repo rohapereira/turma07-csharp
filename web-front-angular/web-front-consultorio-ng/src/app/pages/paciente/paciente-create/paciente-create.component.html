@@ -1,0 +1,24 @@
+<app-header></app-header>
+<main>
+    <form class="pure-form pure-form-aligned">
+        <fieldset>
+            <legend>Cadastro de Pacientes</legend>
+            <div class="pure-control-group">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" placeholder="Digite um Nome" name="nome" [(ngModel)]="this.Paciente.Nome">
+            </div>
+            <div class="pure-control-group">
+                <label for="dtnasc">Data Nasc:</label>
+                <input type="date" id="dtnasc" name="dtnasc" 
+                [ngModel]="this.Paciente.DataNascimento | date: 'yyyy-MM-dd'" 
+                (ngModelChange)="this.Paciente.DataNascimento=$event">
+            </div>
+            <div class="pure-controls">
+                <button type="button" (click)="enviar()" class="pure-button pure-button-primary">Enviar</button>
+                <button type="reset" class="pure-button">Limpar</button>
+                <button type="button" routerLink="/pacientes" class="pure-button">Voltar</button>
+            </div>
+        </fieldset>
+    </form>
+</main>
+<app-footer></app-footer>

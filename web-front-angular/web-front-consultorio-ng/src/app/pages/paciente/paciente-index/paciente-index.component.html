@@ -1,0 +1,29 @@
+<app-header></app-header>
+<main>
+    <div>
+        <form class="pure-form">
+            <label for="codigo">Codigo:</label>
+            <input type="number" id="codigo" placeholder="Digite um Codigo">
+            <input type="text" id="nome" placeholder="Digite um Nome">
+            <button type="button" (click)="pesquisar()" class="pure-button pure-button-primary">Pesquisar</button>
+            <button type="button" routerLink="/pacientes/create" class="pure-button">Novo</button>
+        </form>
+    </div>
+   <table class="pure-table pure-table-bordered">
+    <thead>
+        <tr>
+            <th>Codigo</th>
+            <th>Nome</th>
+            <th>Data Nasc.</th>
+        </tr>
+    </thead>
+    <tbody data-list>
+        <tr *ngFor="let paciente of this.Pacientes">
+            <td><a routerLink="/pacientes/edit/{{paciente.Codigo}}">{{paciente.Codigo}}</a></td>
+            <td>{{paciente.Nome}}</td>
+            <td>{{paciente.DataNascimento | date: 'dd/MM/yyyy'}}</td>
+        </tr> 
+    </tbody>
+   </table> 
+</main>
+<app-footer></app-footer>

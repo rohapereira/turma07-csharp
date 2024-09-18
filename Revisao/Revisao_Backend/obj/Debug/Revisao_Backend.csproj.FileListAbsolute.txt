@@ -1,0 +1,172 @@
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\Revisao_Backend.dll.config
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\Revisao_Backend.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\Revisao_Backend.pdb
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csc.exe
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csc.exe.config
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csc.rsp
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csi.exe
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csi.exe.config
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csi.rsp
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.AppContext.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Console.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Net.Http.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\vbc.exe
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\vbc.exe.config
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\vbc.rsp
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\Newtonsoft.Json.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Net.Http.Formatting.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.WebHost.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\Newtonsoft.Json.xml
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Net.Http.Formatting.xml
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.xml
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.WebHost.xml
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\obj\Debug\Revisao_Backend.csproj.AssemblyReference.cache
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\obj\Debug\Revisao_Backend.csproj.CoreCompileInputs.cache
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\obj\Debug\Revisao_.3FC36761.Up2Date
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\obj\Debug\Revisao_Backend.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\obj\Debug\Revisao_Backend.pdb
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Buffers.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Memory.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Numerics.Vectors.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Cors.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.Cors.dll
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Buffers.xml
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Memory.xml
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Numerics.Vectors.xml
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Lukka\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.Cors.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\Revisao_Backend.dll.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\Revisao_Backend.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\Revisao_Backend.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csc.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csc.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csc.rsp
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csi.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csi.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\csi.rsp
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.AppContext.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Console.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.IO.Compression.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Net.Http.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.ValueTuple.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\vbc.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\vbc.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\vbc.rsp
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\VBCSCompiler.exe
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\Newtonsoft.Json.Bson.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\Newtonsoft.Json.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Buffers.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Memory.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Net.Http.Formatting.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Numerics.Vectors.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Cors.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.Cors.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.WebHost.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\Newtonsoft.Json.Bson.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Buffers.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Memory.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Net.Http.Formatting.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Numerics.Vectors.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.Cors.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\System.Web.Http.WebHost.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\Newtonsoft.Json.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\obj\Debug\Revisao_Backend.csproj.AssemblyReference.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\obj\Debug\Revisao_Backend.csproj.CoreCompileInputs.cache
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\obj\Debug\Revisao_.3FC36761.Up2Date
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\obj\Debug\Revisao_Backend.dll
+C:\Users\ç44 444444ooooooooo\Documents\Turma07\Revisao\Revisao_Backend\obj\Debug\Revisao_Backend.pdb

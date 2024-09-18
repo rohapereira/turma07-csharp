@@ -1,6 +1,10 @@
+let paginaAtual = 1;
+const linhasPorPagina = 10;
+let todosMedicos = []; // Variável correta para armazenar os médicos
+
 function pesquisar(){
-    var fetchString = criarFetchString()
-    if (fetchString) { // Verifica se a URL de busca foi criada corretamente
+    var fetchString = criarFetchString();
+    if (fetchString) { 
         chamarApi(fetchString);
         limparCampos();
     }
@@ -10,10 +14,6 @@ function criarFetchString(){
     const id = document.querySelector('#id');
     const crm = document.querySelector('#crm');
     const nome = document.querySelector('#nome');
-
-    console.log(id.value)
-    console.log(crm.value)
-    console.log(nome.value)
 
     let fetchString = 'https://localhost:44319/api/medicos/';
 
@@ -36,8 +36,7 @@ function criarFetchString(){
         }
     }
 
-    console.log(fetchString);
-    return fetchString
+    return fetchString;
 }
 
 function chamarApi(fetchString){
@@ -54,7 +53,8 @@ function chamarApi(fetchString){
         .then(resposta => {
             if (resposta) {
                 if (Array.isArray(resposta) && resposta.length > 0) {
-                    injetarMedicos(resposta);
+                    todosMedicos = resposta; // Armazena os médicos na variável correta
+                    renderizarTabela(paginaAtual);
                 } else if (!Array.isArray(resposta) && resposta != null) {
                     injetarMedico(resposta);
                 } else {
@@ -71,14 +71,12 @@ function limparCampos(){
 }
 
 function injetarMedico(jsonMedico){
-    let conteudo = '';
-
-    conteudo +=
-    `<tr>
+    let conteudo = `
+    <tr>
         <td><a href="./edit.html?id=${jsonMedico.Id}">${jsonMedico.Id}</a></td>
         <td>${jsonMedico.CRM}</td>
         <td>${jsonMedico.Nome}</td>
-    </tr>`
+    </tr>`;
 
     document.querySelector("[data-list]").innerHTML = conteudo;
 }
@@ -87,16 +85,59 @@ function injetarMedicos(jsonMedicos){
     let conteudo = '';
 
     jsonMedicos.forEach(medico => {
-        conteudo +=
-        `<tr>
+        conteudo += `
+        <tr>
             <td><a href="./edit.html?id=${medico.Id}">${medico.Id}</a></td>
             <td>${medico.CRM}</td>
             <td>${medico.Nome}</td>
-        </tr>`
+        </tr>`;
     });
 
     document.querySelector("[data-list]").innerHTML = conteudo;
 }
+
+function renderizarTabela(pagina) {
+    const inicio = (pagina - 1) * linhasPorPagina;
+    const fim = inicio + linhasPorPagina;
+    const itensPaginados = todosMedicos.slice(inicio, fim); // Usar todosMedicos
+    injetarMedicos(itensPaginados);
+    renderizarPaginacao();
+}
+
+function renderizarPaginacao() {
+    const numerosPaginas = document.getElementById('numerosPaginas');
+    numerosPaginas.innerHTML = '';
+    const totalPaginas = Math.ceil(todosMedicos.length / linhasPorPagina); // Usar todosMedicos
+
+    for (let i = 1; i <= totalPaginas; i++) {
+        const numeroPagina = document.createElement('button');
+        numeroPagina.className = 'pure-button';
+        numeroPagina.innerText = i;
+        if (i === paginaAtual) {
+            numeroPagina.classList.add('active');
+        }
+        numeroPagina.onclick = () => {
+            paginaAtual = i;
+            renderizarTabela(paginaAtual);
+        };
+        numerosPaginas.appendChild(numeroPagina);
+    }
+}
+
+window.paginaAnterior = function () {
+    if (paginaAtual > 1) {
+        paginaAtual--;
+        renderizarTabela(paginaAtual);
+    }
+};
+
+window.proximaPagina = function () {
+    const totalPaginas = Math.ceil(todosMedicos.length / linhasPorPagina); // Usar todosMedicos
+    if (paginaAtual < totalPaginas) {
+        paginaAtual++;
+        renderizarTabela(paginaAtual);
+    }
+};
 
 function novo(){
     document.location = './create.html';

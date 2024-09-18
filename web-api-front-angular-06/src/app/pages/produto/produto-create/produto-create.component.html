@@ -1,0 +1,22 @@
+<app-header></app-header>
+<main>
+    <form class="pure-form pure-form-aligned">
+        <fieldset>
+            <legend>Cadastro de Produtos</legend>
+            <div class="pure-control-group">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" placeholder="Digite o Produto" name="nome" [(ngModel)]="this.Produto.Nome">
+            </div>
+            <div class="pure-control-group">
+                <label for="estoque">Estoque:</label>
+                <input type="number" id="estoque" placeholder="Digite o Estoque" name="estoque" [ngModel]="this.Produto.Estoque" (ngModelChange)="this.Produto.Estoque=$event">
+            </div>
+            <div class="pure-controls">
+                <button type="button" (click)="enviar()" class="pure-button pure-button-primary">Enviar</button>
+                <button type="reset" class="pure-button">Limpar</button>
+                <button type="button" routerLink="/produtos" class="pure-button">Voltar</button>
+            </div>
+        </fieldset>
+    </form>
+</main>
+<app-footer></app-footer>

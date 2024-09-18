@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar Vegetal</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css" integrity="sha384-X38yfunGUhNzHpBaEBsWLO+A0HDYOQi8ufWDkZ0k9e0eXz/tH3II7uKZ9msv++Ls" crossorigin="anonymous">
+    <link rel="stylesheet" href="../CSS/style.css">
+    <link rel="stylesheet" href="./CSS/edit.css">
+    <script defer src="./JS/edit.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="pure-menu pure-menu-horizontal">
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item"><a href="../index.html" class="pure-menu-link">Home</a></li>
+                <li class="pure-menu-item"><a href="index.html" class="pure-menu-link">Vegetais</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <form class="pure-form pure-form-aligned">
+            <fieldset>
+                <legend>Edição de Vegetal</legend>
+                <div class="pure-control-group">
+                    <label>Id:</label>
+                    <input type="text" id="id" disabled>
+                </div>
+                <div class="pure-control-group">
+                    <label for="nome">Nome: </label>
+                    <input type="text" id="nome">
+                </div>
+                <div class="pure-control-group">
+                    <label for="preco">Preco: </label>
+                    <input type="number" id="preco">
+                </div>
+                <div class="pure-control-group">
+                    <label for="validade">Validade: </label>
+                    <input type="date" id="validade">
+                </div>
+                <div class="pure-controls">
+                    <button type="button" id="btnAlterar">Alterar</button>
+                    <button type="button" id="btnExcluir">Excluir</button>
+                    <button type="button" id="btnVoltar">Voltar</button>
+                </div>
+            </fieldset>
+        </form>
+    </main>
+    <footer>
+        <p>Desenvolvido por <span><strong>Rodrigo Pereira!</strong></span> &copy;</p>
+    </footer>
+</body>
+</html>

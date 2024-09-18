@@ -1,0 +1,14 @@
+footer{
+    bottom: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+footer > p{
+    font-size: 1.115em;
+    color: red;
+}
+
+footer > p > span{
+    font-weight: bolder;
+}

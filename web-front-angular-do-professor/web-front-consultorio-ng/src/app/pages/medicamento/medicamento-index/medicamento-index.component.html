@@ -1,0 +1,32 @@
+<app-header></app-header>
+    <main>
+        <div>
+            <form class="pure-form">
+                <label for="id">Id:</label>
+                <input type="number" id="id" placeholder="Digite um Id">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" placeholder="Digite um Nome">
+                <button type="button" (click)="pesquisar()" class="pure-button pure-button-primary">Pesquisar</button>
+                <button type="button" routerLink="/medicamentos/create" class="pure-button">Novo</button>
+            </form>
+        </div>
+        <table id="tabela" class="pure-table pure-table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Data Fab.</th>
+                <th>Data Venc.</th>
+            </tr>
+        </thead>
+        <tbody data-list>
+            <tr *ngFor="let medicamento of this.Medicamentos">
+                <td><a routerLink="/medicamentos/edit/{{medicamento.Id}}">{{medicamento.Id}}</a></td>
+                <td>{{medicamento.Nome}}</td>
+                <td>{{medicamento.DataDeFabricacao | date: 'dd/MM/yyyy'}}</td>
+                <td>{{medicamento.DataDeVencimento | date: 'dd/MM/yyyy'}}</td>
+            </tr>
+        </tbody>
+        </table>
+    </main>
+<app-footer></app-footer>

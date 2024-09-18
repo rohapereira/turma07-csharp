@@ -1,0 +1,30 @@
+<app-header></app-header>
+<main>
+    <div>
+        <form class="pure-form">
+            <label for="id">Id:</label>
+            <input type="number" name="id" placeholder="Digite um Id" id="id" [(ngModel)]="this.Id">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" placeholder="Digite um Nome" name="nome" [(ngModel)]="this.Nome">
+            <button type="button" (click)="definirPesquisa()" class="pure-button pure-button-primary">Pesquisar</button>
+            <button type="button" routerLink="/produtos/create" class="pure-button">Novo</button>
+        </form>
+    </div>
+   <table class="pure-table pure-table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Estoque</th>
+        </tr>
+    </thead>
+    <tbody data-list>
+        <tr *ngFor="let produto of this.Produtos">
+            <td><a routerLink="/produtos/edit/{{produto.Id}}">{{produto.Id}}</a></td>
+            <td>{{produto.Nome}}</td>
+            <td>{{produto.Estoque}}</td>
+        </tr>
+    </tbody>
+   </table>
+</main>
+<app-footer></app-footer>

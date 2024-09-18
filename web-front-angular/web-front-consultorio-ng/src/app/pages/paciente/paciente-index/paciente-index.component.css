@@ -1,0 +1,19 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+table{
+    margin: 20px auto;
+    width: 60%;
+}
+
+table th{
+    text-align: center;
+}
+
+.pure-button.active {
+    background-color: #0078e7;
+    color: white;
+}

@@ -10,7 +10,7 @@ function formatDateForInput(dateString) {
 }
 
 window.onload = () => {
-    const id = new URLSearchParams(document.location.search).get('codigo');
+    const id = new URLSearchParams(document.location.search).get('id');
     if (id) {
         fetch(`https://localhost:44319/api/pacientes/${id}`)
             .then(response => {
@@ -38,22 +38,22 @@ window.onload = () => {
 
 function alterar() {
 
-    const id = document.querySelector('#id'); 
+    const codigo = document.querySelector('#codigo'); 
     const nome = document.querySelector('#nome');
     const dtnasc = document.querySelector('#dtnasc');
     
-    if (!id.value || !nome.value || !dtnasc.value ) {
+    if (!codigo.value || !nome.value || !dtnasc.value ) {
         alert('Preencha todos os campos!');
         return;
     }
     
     const paciente = {
-        Codigo: id.value,
+        Codigo: codigo.value,
         Nome: nome.value,
-        DataNascimento: dtnasc.value,
+        DataNascimento: dtnasc.value
     };
     
-    fetch(`https://localhost:44319/api/pacientes/${id.value}`, {
+    fetch(`https://localhost:44319/api/pacientes/${codigo.value}`, {
         method: 'put',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(paciente)
@@ -72,15 +72,15 @@ function alterar() {
 }
 
 function excluir(){
-    const id = document.querySelector('#id').value;
+    const codigo = document.querySelector('#codigo').value;
 
-    if (!id) {
-        alert('ID do paciente não encontrado.');
+    if (!codigo) {
+        alert('Codigo do paciente não encontrado.');
         return;
     }
 
     if (confirm('Você tem certeza de que deseja deletar este paciente?')) {
-        fetch(`https://localhost:44319/api/pacientes/${id}`, {
+        fetch(`https://localhost:44319/api/pacientes/${codigo}`, {
             method: 'delete',
             headers: { 'Content-Type': 'application/json' }
         })

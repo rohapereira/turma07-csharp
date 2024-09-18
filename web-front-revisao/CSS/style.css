@@ -1,0 +1,30 @@
+header > nav{
+    text-align: center;
+}
+
+main > p{
+    text-align: center;
+    font-size: 2em;
+}
+
+footer{
+    position:sticky;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    z-index: -1;
+}
+
+footer > p{
+    font-size: 1.115em;
+    color: red;
+    text-align: center;
+}
+
+footer > p > span{
+    font-weight: bolder;
+}
+
+h1{
+    text-align: center;
+}
